@@ -1,0 +1,9 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 88
+names: ['Plátano', 'Beetroot', 'Brocoli', 'Coliflor', 'Limón', 'Cebolla', 'Orange', 'Peas', 'Patata', 'Shallot', 'Strawberry', 'Sweetcorn', 'Tomate', 'Manzana', 'Manzana', 'asparagus', 'aubergine', 'bacon', 'Plátano', 'Plátano', 'bazlama', 'Carne vacuno', 'blueberries', 'bread', 'Brocoli', 'Mantequilla', 'Zanahoria', 'Zanahoria', 'Queso', 'Carne pollo', 'Carne pollo', 'chocolate', 'chocolate chips', 'corn', 'courgettes', 'cream', 'cream cheese', 'creme fraiche', 'dates', 'Huevos', 'flour', 'ginger', 'Queso', 'green beans', 'green bell pepper', 'green chilies', 'green_beans', 'Carne vacuno', 'Carne cerdo', 'heavy_cream', 'juice', 'Limón', 'Limón', 'Lechuga/Endivia', 'lime', 'mango', 'meat', 'milk', 'mineral water', 'Champiñones', 'Champiñones', 'olive', 'olives', 'Cebolla', 'orange', 'parsley', 'peach', 'peppers', 'Patata', 'Patata', 'red bell pepper', 'red grapes', 'Cebolla', 'salami', 'sauce', 'Salchichas', 'Gambas/Langostinos', 'spinach', 'spring onion', 'strawberries', 'strawberry', 'sugar', 'sweet_potato', 'Tomate', 'tomato paste', 'Tomate', 'yellow bell pepper', 'Yogur']
+
+
+source: https://universe.roboflow.com/fridge-6oahv/fridge-vstlk/dataset/1

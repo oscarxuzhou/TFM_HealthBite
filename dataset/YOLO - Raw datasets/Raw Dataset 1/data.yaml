@@ -1,0 +1,8 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 38
+names: ['Manzana', 'Plátano', 'Carne vacuno', 'blueberries', 'bread', 'Brocoli', 'Mantequilla', 'Zanahoria', 'Queso', 'Carne pollo', 'chocolate', 'corn', 'Huevos', 'flour', 'Queso', 'green_beans','Carne vacuno', 'Carne cerdo', 'heavy_cream', 'Limón', 'Lechuga/Endivia', 'mayonaise', 'Leche', 'Champiñones', 'Yogur','oat_milk', 'olives', 'Cebolla', 'orange', 'pepper', 'Patata', 'Gambas/Langostinos', 'sour_cream', 'spinach', 'strawberries', 'sugar', 'sweet_potato', 'Tomate']
+
+source: https://universe.roboflow.com/james-elcock/fridge-detection-ojugs/dataset/6

@@ -1,0 +1,10 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 22
+names: ['Manzana', 'Aguacate', 'Plátano', 'bell pepper', 'blueberries', 'Mantequilla', 
+'Zanahoria', 'Queso', 'Carne pollo', 'Pepino', 'Huevos', 'ketchup', 'Limón', 'Lechuga/Endivia', 
+'lime', 'mayonnaise', 'Leche', 'mustard', 'orange', 'strawberries', 'Tomate', 'Yogur']
+
+source: https://universe.roboflow.com/recipe-recomendation-app/fridge-detection-merged/dataset/4

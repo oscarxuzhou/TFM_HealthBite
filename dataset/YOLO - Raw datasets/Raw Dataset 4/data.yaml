@@ -1,0 +1,8 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 37
+names: ['Acelga', 'Aguacate', 'Ajo', 'Brocoli', 'Cebolla', 'Esparrago', 'Espinaca', 'Guacamole', 'Huevos', 'Humus', 'Judia verde', 'Leche', 'Lechuga/Endivia', 'Limón', 'Mango', 'Mantequilla', 'Manzana', 'Mayonesa', 'Mermelada', 'Nata', 'Pan de sandwich', 'Carne pavo', 'Pepino', 'Pera', 'Pescado', 'Pimiento', 'Pina', 'Plátano', 'Puerro', 'Queso', 'Queso', 'Salchichas', 'Salsa de tomate', 'Tomate', 'Tortillas de trigo', 'Yogur', 'Zanahoria']
+
+source: https://universe.roboflow.com/neveraflow/nadaenlanevera/dataset/1

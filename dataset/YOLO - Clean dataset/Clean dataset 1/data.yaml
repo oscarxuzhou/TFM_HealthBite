@@ -1,0 +1,12 @@
+train: ../train/images
+val: ../val/images
+test: ../test/images
+
+nc: 30
+names: [
+    "Tomate", "Cebolla", "Patata", "Lechuga/Endivia", "Zanahoria",
+    "Calabacines", "Pepino", "Champiñones", "Brocoli", "Coliflor",
+    "Leche", "Huevos", "Yogur", "Queso", "Mantequilla",
+    "Merluza", "Gambas/Langostinos", "Mix de marisco/molusco", "Lubina", "Salmón",
+    "Plátano", "Aguacate", "Sandía", "Limón", "Manzana", "Carne pollo", "Carne cerdo", "Carne vacuno", "Salchichas", "Carne pavo"
+]
