@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['fridge-space']
+
+roboflow:
+  workspace: testing-19kc7
+  project: fridge-final-u78cq
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/testing-19kc7/fridge-final-u78cq/dataset/1
