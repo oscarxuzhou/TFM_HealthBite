@@ -1,0 +1,5 @@
+Debido a que el dataset usado de recetas es demasiado grande (2+ GB), no se ha podido subir completamente a Github.
+Sin embargo, se dejan las fuentes en este documento de instrucciones para trazabilidad y reproducibilidad.
+
+La fuente original es: https://huggingface.co/datasets/mbien/recipe_nlg
+El dataset traducido se puede encontrar en: https://github.com/oscarxuzhou/TFM_RecoBite/releases/tag/dataset
