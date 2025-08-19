@@ -1,0 +1,761 @@
+sintoma,texto,deficiencia de nutrientes,disponible en ingredientes,source
+fatiga,estoy constantemente cansado y sin energia,hierro; vitamina b12; folato; vitamina d; magnesio,"carne vacuno, carne pavo, huevos, salmon, leche, yogur, brocoli, platano",original
+fatiga,estoy constantemente fatigado y muy bajo de energia,hierro; vitamina b12; folato; vitamina d; magnesio,"carne vacuno, carne pavo, huevos, salmon, leche, yogur, brocoli, platano",parafraseado
+fatiga,por las mananas estoy constantemente cansado y con energia baja,hierro; vitamina b12; folato; vitamina d; magnesio,"carne vacuno, carne pavo, huevos, salmon, leche, yogur, brocoli, platano",parafraseado
+fatiga,de vez en cuando estoy constantemente sin energia y con energia baja,hierro; vitamina b12; folato; vitamina d; magnesio,"carne vacuno, carne pavo, huevos, salmon, leche, yogur, brocoli, platano",parafraseado
+fatiga,me siento agotado todo el dia,hierro; vitamina b12; folato; vitamina d; magnesio,"carne vacuno, carne pavo, huevos, salmon, leche, yogur, brocoli, platano",original
+fatiga,me siento fatigado todo el dia,hierro; vitamina b12; folato; vitamina d; magnesio,"carne vacuno, carne pavo, huevos, salmon, leche, yogur, brocoli, platano",parafraseado
+fatiga,desde hace semanas me siento sin energia todo el dia y va a peor,hierro; vitamina b12; folato; vitamina d; magnesio,"carne vacuno, carne pavo, huevos, salmon, leche, yogur, brocoli, platano",parafraseado
+fatiga,ultimamente me noto cansado todo el dia y va a peor,hierro; vitamina b12; folato; vitamina d; magnesio,"carne vacuno, carne pavo, huevos, salmon, leche, yogur, brocoli, platano",parafraseado
+fatiga,me falta fuerza incluso con tareas simples,hierro; vitamina b12; folato; vitamina d; magnesio,"carne vacuno, carne pavo, huevos, salmon, leche, yogur, brocoli, platano",original
+fatiga,estos dias me falta fuerza incluso con tareas simples,hierro; vitamina b12; folato; vitamina d; magnesio,"carne vacuno, carne pavo, huevos, salmon, leche, yogur, brocoli, platano",parafraseado
+fatiga,desde hace semanas me falta fuerza incluso con tareas simples,hierro; vitamina b12; folato; vitamina d; magnesio,"carne vacuno, carne pavo, huevos, salmon, leche, yogur, brocoli, platano",parafraseado
+fatiga,estos dias me falta fuerza incluso con tareas simples y me preocupa,hierro; vitamina b12; folato; vitamina d; magnesio,"carne vacuno, carne pavo, huevos, salmon, leche, yogur, brocoli, platano",parafraseado
+fatiga,me despierto cansado aunque haya dormido,hierro; vitamina b12; folato; vitamina d; magnesio,"carne vacuno, carne pavo, huevos, salmon, leche, yogur, brocoli, platano",original
+fatiga,me despierto rendido aunque haya dormido y va a peor,hierro; vitamina b12; folato; vitamina d; magnesio,"carne vacuno, carne pavo, huevos, salmon, leche, yogur, brocoli, platano",parafraseado
+fatiga,ultimamente me despierto fatigado aunque haya dormido,hierro; vitamina b12; folato; vitamina d; magnesio,"carne vacuno, carne pavo, huevos, salmon, leche, yogur, brocoli, platano",parafraseado
+fatiga,me despierto fatigado aunque haya dormido,hierro; vitamina b12; folato; vitamina d; magnesio,"carne vacuno, carne pavo, huevos, salmon, leche, yogur, brocoli, platano",parafraseado
+fatiga,siento un bajon de energia durante la tarde,hierro; vitamina b12; folato; vitamina d; magnesio,"carne vacuno, carne pavo, huevos, salmon, leche, yogur, brocoli, platano",original
+fatiga,estos dias siento un bajon de energia durante la tarde,hierro; vitamina b12; folato; vitamina d; magnesio,"carne vacuno, carne pavo, huevos, salmon, leche, yogur, brocoli, platano",parafraseado
+fatiga,por las mananas siento un bajon de energia durante la tarde y va a peor,hierro; vitamina b12; folato; vitamina d; magnesio,"carne vacuno, carne pavo, huevos, salmon, leche, yogur, brocoli, platano",parafraseado
+fatiga,estos dias siento un bajon de energia durante la tarde y me preocupa,hierro; vitamina b12; folato; vitamina d; magnesio,"carne vacuno, carne pavo, huevos, salmon, leche, yogur, brocoli, platano",parafraseado
+dolor de cabeza,tengo dolor de cabeza casi a diario,magnesio; riboflavina (b2); potasio,"yogur, leche, platano, patata, tomate, brocoli",original
+dolor de cabeza,tengo jaqueca casi a diario,magnesio; riboflavina (b2); potasio,"yogur, leche, platano, patata, tomate, brocoli",parafraseado
+dolor de cabeza,de un tiempo a esta parte tengo jaqueca casi a diario y va a peor,magnesio; riboflavina (b2); potasio,"yogur, leche, platano, patata, tomate, brocoli",parafraseado
+dolor de cabeza,tengo me duele la cabeza casi a diario y cada vez mas frecuente,magnesio; riboflavina (b2); potasio,"yogur, leche, platano, patata, tomate, brocoli",parafraseado
+dolor de cabeza,me duele la cabeza desde la manana,magnesio; riboflavina (b2); potasio,"yogur, leche, platano, patata, tomate, brocoli",original
+dolor de cabeza,desde hace semanas me duele la cabeza desde la manana,magnesio; riboflavina (b2); potasio,"yogur, leche, platano, patata, tomate, brocoli",parafraseado
+dolor de cabeza,me duele la cabeza desde la manana y me preocupa,magnesio; riboflavina (b2); potasio,"yogur, leche, platano, patata, tomate, brocoli",parafraseado
+dolor de cabeza,desde hace semanas me duele la cabeza desde la manana y me preocupa,magnesio; riboflavina (b2); potasio,"yogur, leche, platano, patata, tomate, brocoli",parafraseado
+dolor de cabeza,siento presion en la cabeza,magnesio; riboflavina (b2); potasio,"yogur, leche, platano, patata, tomate, brocoli",original
+dolor de cabeza,de un tiempo a esta parte siento presion en la cabeza,magnesio; riboflavina (b2); potasio,"yogur, leche, platano, patata, tomate, brocoli",parafraseado
+dolor de cabeza,por las mananas siento presion en la cabeza y me pasa a menudo,magnesio; riboflavina (b2); potasio,"yogur, leche, platano, patata, tomate, brocoli",parafraseado
+dolor de cabeza,por las mananas siento presion en la cabeza y cada vez mas frecuente,magnesio; riboflavina (b2); potasio,"yogur, leche, platano, patata, tomate, brocoli",parafraseado
+dolor de cabeza,me molestan las luces por el dolor de cabeza,magnesio; riboflavina (b2); potasio,"yogur, leche, platano, patata, tomate, brocoli",original
+dolor de cabeza,me molestan las luces por el cefalea y no se por que,magnesio; riboflavina (b2); potasio,"yogur, leche, platano, patata, tomate, brocoli",parafraseado
+dolor de cabeza,me molestan las luces por el me duele la cabeza y me pasa a menudo,magnesio; riboflavina (b2); potasio,"yogur, leche, platano, patata, tomate, brocoli",parafraseado
+dolor de cabeza,me molestan las luces por el jaqueca,magnesio; riboflavina (b2); potasio,"yogur, leche, platano, patata, tomate, brocoli",parafraseado
+dolor de cabeza,me viene jaqueca despues de trabajar,magnesio; riboflavina (b2); potasio,"yogur, leche, platano, patata, tomate, brocoli",original
+dolor de cabeza,por las mananas me viene dolor de cabeza despues de trabajar y me preocupa,magnesio; riboflavina (b2); potasio,"yogur, leche, platano, patata, tomate, brocoli",parafraseado
+dolor de cabeza,me viene cefalea despues de trabajar,magnesio; riboflavina (b2); potasio,"yogur, leche, platano, patata, tomate, brocoli",parafraseado
+dolor de cabeza,ultimamente me viene dolor de cabeza despues de trabajar y me pasa a menudo,magnesio; riboflavina (b2); potasio,"yogur, leche, platano, patata, tomate, brocoli",parafraseado
+caida de cabello,se me cae mucho el cabello,zinc; biotina (b7); hierro; selenio; proteina,"carne vacuno, huevos, salmon, yogur, queso, gambas/langostinos",original
+caida de cabello,desde hace semanas se me cae mucho el cabello,zinc; biotina (b7); hierro; selenio; proteina,"carne vacuno, huevos, salmon, yogur, queso, gambas/langostinos",parafraseado
+caida de cabello,estos dias se me cae mucho el cabello y no se por que,zinc; biotina (b7); hierro; selenio; proteina,"carne vacuno, huevos, salmon, yogur, queso, gambas/langostinos",parafraseado
+caida de cabello,de un tiempo a esta parte se me cae mucho el cabello y no se por que,zinc; biotina (b7); hierro; selenio; proteina,"carne vacuno, huevos, salmon, yogur, queso, gambas/langostinos",parafraseado
+caida de cabello,veo mas pelo en la ducha y la almohada,zinc; biotina (b7); hierro; selenio; proteina,"carne vacuno, huevos, salmon, yogur, queso, gambas/langostinos",original
+caida de cabello,veo mas pelo en la ducha y la almohada y no se por que,zinc; biotina (b7); hierro; selenio; proteina,"carne vacuno, huevos, salmon, yogur, queso, gambas/langostinos",parafraseado
+caida de cabello,por las mananas veo mas pelo en la ducha y la almohada,zinc; biotina (b7); hierro; selenio; proteina,"carne vacuno, huevos, salmon, yogur, queso, gambas/langostinos",parafraseado
+caida de cabello,veo mas pelo en la ducha y la almohada y me pasa a menudo,zinc; biotina (b7); hierro; selenio; proteina,"carne vacuno, huevos, salmon, yogur, queso, gambas/langostinos",parafraseado
+caida de cabello,mi pelo esta mas fino y se rompe,zinc; biotina (b7); hierro; selenio; proteina,"carne vacuno, huevos, salmon, yogur, queso, gambas/langostinos",original
+caida de cabello,por las mananas mi pelo esta mas fino y se rompe y me preocupa,zinc; biotina (b7); hierro; selenio; proteina,"carne vacuno, huevos, salmon, yogur, queso, gambas/langostinos",parafraseado
+caida de cabello,mi pelo esta mas fino y se rompe y me preocupa,zinc; biotina (b7); hierro; selenio; proteina,"carne vacuno, huevos, salmon, yogur, queso, gambas/langostinos",parafraseado
+caida de cabello,por las mananas mi pelo esta mas fino y se rompe y no se por que,zinc; biotina (b7); hierro; selenio; proteina,"carne vacuno, huevos, salmon, yogur, queso, gambas/langostinos",parafraseado
+caida de cabello,tengo entradas mas marcadas ultimamente,zinc; biotina (b7); hierro; selenio; proteina,"carne vacuno, huevos, salmon, yogur, queso, gambas/langostinos",original
+caida de cabello,tengo entradas mas marcadas ultimamente y no se por que,zinc; biotina (b7); hierro; selenio; proteina,"carne vacuno, huevos, salmon, yogur, queso, gambas/langostinos",parafraseado
+caida de cabello,ultimamente tengo entradas mas marcadas ultimamente y cada vez mas frecuente,zinc; biotina (b7); hierro; selenio; proteina,"carne vacuno, huevos, salmon, yogur, queso, gambas/langostinos",parafraseado
+caida de cabello,de un tiempo a esta parte tengo entradas mas marcadas ultimamente,zinc; biotina (b7); hierro; selenio; proteina,"carne vacuno, huevos, salmon, yogur, queso, gambas/langostinos",parafraseado
+caida de cabello,noto perdida de cabello al peinarme,zinc; biotina (b7); hierro; selenio; proteina,"carne vacuno, huevos, salmon, yogur, queso, gambas/langostinos",original
+caida de cabello,noto perdida de cabello al peinarme y me preocupa,zinc; biotina (b7); hierro; selenio; proteina,"carne vacuno, huevos, salmon, yogur, queso, gambas/langostinos",parafraseado
+caida de cabello,estos dias noto perdida de cabello al peinarme y cada vez mas frecuente,zinc; biotina (b7); hierro; selenio; proteina,"carne vacuno, huevos, salmon, yogur, queso, gambas/langostinos",parafraseado
+caida de cabello,desde hace semanas noto perdida de cabello al peinarme y me preocupa,zinc; biotina (b7); hierro; selenio; proteina,"carne vacuno, huevos, salmon, yogur, queso, gambas/langostinos",parafraseado
+piel seca,tengo la piel muy seca y tirante,vitamina a; omega-3; zinc,"zanahoria, salmon, huevos, mantequilla, aguacate",original
+piel seca,por las mananas tengo la piel muy seca y tirante y va a peor,vitamina a; omega-3; zinc,"zanahoria, salmon, huevos, mantequilla, aguacate",parafraseado
+piel seca,por las mananas tengo la piel muy seca y tirante,vitamina a; omega-3; zinc,"zanahoria, salmon, huevos, mantequilla, aguacate",parafraseado
+piel seca,estos dias tengo la piel muy seca y tirante,vitamina a; omega-3; zinc,"zanahoria, salmon, huevos, mantequilla, aguacate",parafraseado
+piel seca,mi piel se descama facilmente,vitamina a; omega-3; zinc,"zanahoria, salmon, huevos, mantequilla, aguacate",original
+piel seca,ultimamente mi piel se descama facilmente,vitamina a; omega-3; zinc,"zanahoria, salmon, huevos, mantequilla, aguacate",parafraseado
+piel seca,mi piel se descama facilmente y no se por que,vitamina a; omega-3; zinc,"zanahoria, salmon, huevos, mantequilla, aguacate",parafraseado
+piel seca,mi piel se descama facilmente y cada vez mas frecuente,vitamina a; omega-3; zinc,"zanahoria, salmon, huevos, mantequilla, aguacate",parafraseado
+piel seca,uso crema pero la piel sigue seca,vitamina a; omega-3; zinc,"zanahoria, salmon, huevos, mantequilla, aguacate",original
+piel seca,desde hace semanas uso crema pero la piel sigue seca y no se por que,vitamina a; omega-3; zinc,"zanahoria, salmon, huevos, mantequilla, aguacate",parafraseado
+piel seca,ultimamente uso crema pero la piel sigue seca y no se por que,vitamina a; omega-3; zinc,"zanahoria, salmon, huevos, mantequilla, aguacate",parafraseado
+piel seca,por las mananas uso crema pero la piel sigue seca y me preocupa,vitamina a; omega-3; zinc,"zanahoria, salmon, huevos, mantequilla, aguacate",parafraseado
+piel seca,siento picores por sequedad,vitamina a; omega-3; zinc,"zanahoria, salmon, huevos, mantequilla, aguacate",original
+piel seca,siento picores por sequedad y cada vez mas frecuente,vitamina a; omega-3; zinc,"zanahoria, salmon, huevos, mantequilla, aguacate",parafraseado
+piel seca,siento picores por sequedad y va a peor,vitamina a; omega-3; zinc,"zanahoria, salmon, huevos, mantequilla, aguacate",parafraseado
+piel seca,desde hace semanas siento picores por sequedad,vitamina a; omega-3; zinc,"zanahoria, salmon, huevos, mantequilla, aguacate",parafraseado
+piel seca,mi piel se agrieta con facilidad,vitamina a; omega-3; zinc,"zanahoria, salmon, huevos, mantequilla, aguacate",original
+piel seca,de un tiempo a esta parte mi piel se agrieta con facilidad,vitamina a; omega-3; zinc,"zanahoria, salmon, huevos, mantequilla, aguacate",parafraseado
+piel seca,desde hace semanas mi piel se agrieta con facilidad,vitamina a; omega-3; zinc,"zanahoria, salmon, huevos, mantequilla, aguacate",parafraseado
+piel seca,mi piel se agrieta con facilidad y no se por que,vitamina a; omega-3; zinc,"zanahoria, salmon, huevos, mantequilla, aguacate",parafraseado
+unas quebradizas,mis unas se rompen con facilidad,biotina (b7); zinc; hierro; proteina,"huevos, queso, yogur, carne vacuno, salmon",original
+unas quebradizas,mis unas se rompen con facilidad y me pasa a menudo,biotina (b7); zinc; hierro; proteina,"huevos, queso, yogur, carne vacuno, salmon",parafraseado
+unas quebradizas,estos dias mis unas se rompen con facilidad y va a peor,biotina (b7); zinc; hierro; proteina,"huevos, queso, yogur, carne vacuno, salmon",parafraseado
+unas quebradizas,desde hace semanas mis unas se rompen con facilidad y me pasa a menudo,biotina (b7); zinc; hierro; proteina,"huevos, queso, yogur, carne vacuno, salmon",parafraseado
+unas quebradizas,tengo unas debiles y quebradizas,biotina (b7); zinc; hierro; proteina,"huevos, queso, yogur, carne vacuno, salmon",original
+unas quebradizas,estos dias tengo unas debiles y quebradizas,biotina (b7); zinc; hierro; proteina,"huevos, queso, yogur, carne vacuno, salmon",parafraseado
+unas quebradizas,por las mananas tengo unas debiles y quebradizas y me preocupa,biotina (b7); zinc; hierro; proteina,"huevos, queso, yogur, carne vacuno, salmon",parafraseado
+unas quebradizas,ultimamente tengo unas debiles y quebradizas y me preocupa,biotina (b7); zinc; hierro; proteina,"huevos, queso, yogur, carne vacuno, salmon",parafraseado
+unas quebradizas,las capas de las unas se levantan,biotina (b7); zinc; hierro; proteina,"huevos, queso, yogur, carne vacuno, salmon",original
+unas quebradizas,por las mananas las capas de las unas se levantan y me preocupa,biotina (b7); zinc; hierro; proteina,"huevos, queso, yogur, carne vacuno, salmon",parafraseado
+unas quebradizas,desde hace semanas las capas de las unas se levantan,biotina (b7); zinc; hierro; proteina,"huevos, queso, yogur, carne vacuno, salmon",parafraseado
+unas quebradizas,estos dias las capas de las unas se levantan,biotina (b7); zinc; hierro; proteina,"huevos, queso, yogur, carne vacuno, salmon",parafraseado
+unas quebradizas,mis unas crecen muy finas,biotina (b7); zinc; hierro; proteina,"huevos, queso, yogur, carne vacuno, salmon",original
+unas quebradizas,ultimamente mis unas crecen muy finas,biotina (b7); zinc; hierro; proteina,"huevos, queso, yogur, carne vacuno, salmon",parafraseado
+unas quebradizas,desde hace semanas mis unas crecen muy finas y me pasa a menudo,biotina (b7); zinc; hierro; proteina,"huevos, queso, yogur, carne vacuno, salmon",parafraseado
+unas quebradizas,mis unas crecen muy finas y va a peor,biotina (b7); zinc; hierro; proteina,"huevos, queso, yogur, carne vacuno, salmon",parafraseado
+unas quebradizas,me salen lineas y se parten las unas,biotina (b7); zinc; hierro; proteina,"huevos, queso, yogur, carne vacuno, salmon",original
+unas quebradizas,me salen lineas y se parten las unas y va a peor,biotina (b7); zinc; hierro; proteina,"huevos, queso, yogur, carne vacuno, salmon",parafraseado
+unas quebradizas,estos dias me salen lineas y se parten las unas y no se por que,biotina (b7); zinc; hierro; proteina,"huevos, queso, yogur, carne vacuno, salmon",parafraseado
+unas quebradizas,por las mananas me salen lineas y se parten las unas y va a peor,biotina (b7); zinc; hierro; proteina,"huevos, queso, yogur, carne vacuno, salmon",parafraseado
+moretones faciles,me salen moretones con golpes leves,vitamina c; vitamina k,"brocoli, coliflor, lechuga/endivia, tomate, limon",original
+moretones faciles,desde hace semanas me salen moretones con golpes leves y cada vez mas frecuente,vitamina c; vitamina k,"brocoli, coliflor, lechuga/endivia, tomate, limon",parafraseado
+moretones faciles,me salen moretones con golpes leves y no se por que,vitamina c; vitamina k,"brocoli, coliflor, lechuga/endivia, tomate, limon",parafraseado
+moretones faciles,desde hace semanas me salen moretones con golpes leves,vitamina c; vitamina k,"brocoli, coliflor, lechuga/endivia, tomate, limon",parafraseado
+moretones faciles,aparezco con morados sin saber por que,vitamina c; vitamina k,"brocoli, coliflor, lechuga/endivia, tomate, limon",original
+moretones faciles,por las mananas aparezco con morados sin saber por que y me pasa a menudo,vitamina c; vitamina k,"brocoli, coliflor, lechuga/endivia, tomate, limon",parafraseado
+moretones faciles,de un tiempo a esta parte aparezco con morados sin saber por que y me pasa a menudo,vitamina c; vitamina k,"brocoli, coliflor, lechuga/endivia, tomate, limon",parafraseado
+moretones faciles,aparezco con morados sin saber por que y me pasa a menudo,vitamina c; vitamina k,"brocoli, coliflor, lechuga/endivia, tomate, limon",parafraseado
+moretones faciles,me quedan marcas moradas mucho tiempo,vitamina c; vitamina k,"brocoli, coliflor, lechuga/endivia, tomate, limon",original
+moretones faciles,estos dias me quedan marcas moradas mucho tiempo y no se por que,vitamina c; vitamina k,"brocoli, coliflor, lechuga/endivia, tomate, limon",parafraseado
+moretones faciles,desde hace semanas me quedan marcas moradas mucho tiempo y no se por que,vitamina c; vitamina k,"brocoli, coliflor, lechuga/endivia, tomate, limon",parafraseado
+moretones faciles,me quedan marcas moradas mucho tiempo y me preocupa,vitamina c; vitamina k,"brocoli, coliflor, lechuga/endivia, tomate, limon",parafraseado
+moretones faciles,tengo moretones frecuentes en las piernas,vitamina c; vitamina k,"brocoli, coliflor, lechuga/endivia, tomate, limon",original
+moretones faciles,tengo moretones frecuentes en las piernas y no se por que,vitamina c; vitamina k,"brocoli, coliflor, lechuga/endivia, tomate, limon",parafraseado
+moretones faciles,ultimamente tengo moretones frecuentes en las piernas y me pasa a menudo,vitamina c; vitamina k,"brocoli, coliflor, lechuga/endivia, tomate, limon",parafraseado
+moretones faciles,ultimamente tengo moretones frecuentes en las piernas,vitamina c; vitamina k,"brocoli, coliflor, lechuga/endivia, tomate, limon",parafraseado
+moretones faciles,cualquier roce me deja un moraton,vitamina c; vitamina k,"brocoli, coliflor, lechuga/endivia, tomate, limon",original
+moretones faciles,ultimamente cualquier roce me deja un moraton y me pasa a menudo,vitamina c; vitamina k,"brocoli, coliflor, lechuga/endivia, tomate, limon",parafraseado
+moretones faciles,por las mananas cualquier roce me deja un moraton,vitamina c; vitamina k,"brocoli, coliflor, lechuga/endivia, tomate, limon",parafraseado
+moretones faciles,cualquier roce me deja un moraton y me preocupa,vitamina c; vitamina k,"brocoli, coliflor, lechuga/endivia, tomate, limon",parafraseado
+sangrado de encias,me sangran las encias al cepillarme,vitamina c,"limon, tomate, brocoli, sandia, cebolla",original
+sangrado de encias,por las mananas me sangran las encias al cepillarme y me pasa a menudo,vitamina c,"limon, tomate, brocoli, sandia, cebolla",parafraseado
+sangrado de encias,ultimamente me sangran las encias al cepillarme y me pasa a menudo,vitamina c,"limon, tomate, brocoli, sandia, cebolla",parafraseado
+sangrado de encias,por las mananas me sangran las encias al cepillarme,vitamina c,"limon, tomate, brocoli, sandia, cebolla",parafraseado
+sangrado de encias,veo sangre en la saliva al lavarme los dientes,vitamina c,"limon, tomate, brocoli, sandia, cebolla",original
+sangrado de encias,desde hace semanas veo sangre en la saliva al lavarme los dientes,vitamina c,"limon, tomate, brocoli, sandia, cebolla",parafraseado
+sangrado de encias,ultimamente veo sangre en la saliva al lavarme los dientes,vitamina c,"limon, tomate, brocoli, sandia, cebolla",parafraseado
+sangrado de encias,veo sangre en la saliva al lavarme los dientes y cada vez mas frecuente,vitamina c,"limon, tomate, brocoli, sandia, cebolla",parafraseado
+sangrado de encias,tengo encias sensibles e inflamadas,vitamina c,"limon, tomate, brocoli, sandia, cebolla",original
+sangrado de encias,de un tiempo a esta parte tengo encias sensibles e inflamadas,vitamina c,"limon, tomate, brocoli, sandia, cebolla",parafraseado
+sangrado de encias,ultimamente tengo encias sensibles e inflamadas,vitamina c,"limon, tomate, brocoli, sandia, cebolla",parafraseado
+sangrado de encias,tengo encias sensibles e inflamadas y cada vez mas frecuente,vitamina c,"limon, tomate, brocoli, sandia, cebolla",parafraseado
+sangrado de encias,las encias me sangran al usar hilo dental,vitamina c,"limon, tomate, brocoli, sandia, cebolla",original
+sangrado de encias,estos dias las encias me sangran al usar hilo dental y me pasa a menudo,vitamina c,"limon, tomate, brocoli, sandia, cebolla",parafraseado
+sangrado de encias,desde hace semanas las encias me sangran al usar hilo dental,vitamina c,"limon, tomate, brocoli, sandia, cebolla",parafraseado
+sangrado de encias,de un tiempo a esta parte las encias me sangran al usar hilo dental y va a peor,vitamina c,"limon, tomate, brocoli, sandia, cebolla",parafraseado
+sangrado de encias,siento dolor y sangrado en las encias,vitamina c,"limon, tomate, brocoli, sandia, cebolla",original
+sangrado de encias,desde hace semanas siento dolor y sangrado en las encias,vitamina c,"limon, tomate, brocoli, sandia, cebolla",parafraseado
+sangrado de encias,desde hace semanas siento dolor y sangrado en las encias y no se por que,vitamina c,"limon, tomate, brocoli, sandia, cebolla",parafraseado
+sangrado de encias,siento dolor y sangrado en las encias y cada vez mas frecuente,vitamina c,"limon, tomate, brocoli, sandia, cebolla",parafraseado
+infecciones frecuentes,me resfrio muy seguido,vitamina c; vitamina d; zinc,"salmon, leche, yogur, huevos, brocoli, limon, carne vacuno",original
+infecciones frecuentes,de un tiempo a esta parte me resfrio muy seguido,vitamina c; vitamina d; zinc,"salmon, leche, yogur, huevos, brocoli, limon, carne vacuno",parafraseado
+infecciones frecuentes,estos dias me resfrio muy seguido y me pasa a menudo,vitamina c; vitamina d; zinc,"salmon, leche, yogur, huevos, brocoli, limon, carne vacuno",parafraseado
+infecciones frecuentes,desde hace semanas me resfrio muy seguido y no se por que,vitamina c; vitamina d; zinc,"salmon, leche, yogur, huevos, brocoli, limon, carne vacuno",parafraseado
+infecciones frecuentes,me enfermo con frecuencia,vitamina c; vitamina d; zinc,"salmon, leche, yogur, huevos, brocoli, limon, carne vacuno",original
+infecciones frecuentes,estos dias me enfermo con frecuencia,vitamina c; vitamina d; zinc,"salmon, leche, yogur, huevos, brocoli, limon, carne vacuno",parafraseado
+infecciones frecuentes,ultimamente me enfermo con frecuencia,vitamina c; vitamina d; zinc,"salmon, leche, yogur, huevos, brocoli, limon, carne vacuno",parafraseado
+infecciones frecuentes,por las mananas me enfermo con frecuencia y no se por que,vitamina c; vitamina d; zinc,"salmon, leche, yogur, huevos, brocoli, limon, carne vacuno",parafraseado
+infecciones frecuentes,me cuesta recuperarme de resfriados,vitamina c; vitamina d; zinc,"salmon, leche, yogur, huevos, brocoli, limon, carne vacuno",original
+infecciones frecuentes,por las mananas me cuesta recuperarme de resfriados,vitamina c; vitamina d; zinc,"salmon, leche, yogur, huevos, brocoli, limon, carne vacuno",parafraseado
+infecciones frecuentes,desde hace semanas me cuesta recuperarme de resfriados,vitamina c; vitamina d; zinc,"salmon, leche, yogur, huevos, brocoli, limon, carne vacuno",parafraseado
+infecciones frecuentes,me cuesta recuperarme de resfriados y me preocupa,vitamina c; vitamina d; zinc,"salmon, leche, yogur, huevos, brocoli, limon, carne vacuno",parafraseado
+infecciones frecuentes,cojo infecciones de garganta a menudo,vitamina c; vitamina d; zinc,"salmon, leche, yogur, huevos, brocoli, limon, carne vacuno",original
+infecciones frecuentes,de un tiempo a esta parte cojo infecciones de garganta a menudo,vitamina c; vitamina d; zinc,"salmon, leche, yogur, huevos, brocoli, limon, carne vacuno",parafraseado
+infecciones frecuentes,ultimamente cojo infecciones de garganta a menudo y va a peor,vitamina c; vitamina d; zinc,"salmon, leche, yogur, huevos, brocoli, limon, carne vacuno",parafraseado
+infecciones frecuentes,cojo infecciones de garganta a menudo y me preocupa,vitamina c; vitamina d; zinc,"salmon, leche, yogur, huevos, brocoli, limon, carne vacuno",parafraseado
+infecciones frecuentes,mi sistema inmune parece bajo,vitamina c; vitamina d; zinc,"salmon, leche, yogur, huevos, brocoli, limon, carne vacuno",original
+infecciones frecuentes,mi sistema inmune parece bajo y cada vez mas frecuente,vitamina c; vitamina d; zinc,"salmon, leche, yogur, huevos, brocoli, limon, carne vacuno",parafraseado
+infecciones frecuentes,estos dias mi sistema inmune parece bajo,vitamina c; vitamina d; zinc,"salmon, leche, yogur, huevos, brocoli, limon, carne vacuno",parafraseado
+infecciones frecuentes,de un tiempo a esta parte mi sistema inmune parece bajo y no se por que,vitamina c; vitamina d; zinc,"salmon, leche, yogur, huevos, brocoli, limon, carne vacuno",parafraseado
+heridas que tardan en curar,mis cortes tardan mucho en cerrar,vitamina c; zinc; proteina,"carne pollo, carne pavo, yogur, queso, tomate, brocoli",original
+heridas que tardan en curar,mis cortes tardan mucho en cerrar y va a peor,vitamina c; zinc; proteina,"carne pollo, carne pavo, yogur, queso, tomate, brocoli",parafraseado
+heridas que tardan en curar,por las mananas mis cortes tardan mucho en cerrar,vitamina c; zinc; proteina,"carne pollo, carne pavo, yogur, queso, tomate, brocoli",parafraseado
+heridas que tardan en curar,por las mananas mis cortes tardan mucho en cerrar y cada vez mas frecuente,vitamina c; zinc; proteina,"carne pollo, carne pavo, yogur, queso, tomate, brocoli",parafraseado
+heridas que tardan en curar,raspones pequenos tardan dias en curar,vitamina c; zinc; proteina,"carne pollo, carne pavo, yogur, queso, tomate, brocoli",original
+heridas que tardan en curar,desde hace semanas raspones pequenos tardan dias en curar,vitamina c; zinc; proteina,"carne pollo, carne pavo, yogur, queso, tomate, brocoli",parafraseado
+heridas que tardan en curar,desde hace semanas raspones pequenos tardan dias en curar y me preocupa,vitamina c; zinc; proteina,"carne pollo, carne pavo, yogur, queso, tomate, brocoli",parafraseado
+heridas que tardan en curar,raspones pequenos tardan dias en curar y no se por que,vitamina c; zinc; proteina,"carne pollo, carne pavo, yogur, queso, tomate, brocoli",parafraseado
+heridas que tardan en curar,las heridas cicatrizan muy lento,vitamina c; zinc; proteina,"carne pollo, carne pavo, yogur, queso, tomate, brocoli",original
+heridas que tardan en curar,estos dias las heridas cicatrizan muy lento y no se por que,vitamina c; zinc; proteina,"carne pollo, carne pavo, yogur, queso, tomate, brocoli",parafraseado
+heridas que tardan en curar,por las mananas las heridas cicatrizan muy lento,vitamina c; zinc; proteina,"carne pollo, carne pavo, yogur, queso, tomate, brocoli",parafraseado
+heridas que tardan en curar,estos dias las heridas cicatrizan muy lento y cada vez mas frecuente,vitamina c; zinc; proteina,"carne pollo, carne pavo, yogur, queso, tomate, brocoli",parafraseado
+heridas que tardan en curar,me salen costras que duran demasiado,vitamina c; zinc; proteina,"carne pollo, carne pavo, yogur, queso, tomate, brocoli",original
+heridas que tardan en curar,desde hace semanas me salen costras que duran demasiado y va a peor,vitamina c; zinc; proteina,"carne pollo, carne pavo, yogur, queso, tomate, brocoli",parafraseado
+heridas que tardan en curar,ultimamente me salen costras que duran demasiado y me pasa a menudo,vitamina c; zinc; proteina,"carne pollo, carne pavo, yogur, queso, tomate, brocoli",parafraseado
+heridas que tardan en curar,desde hace semanas me salen costras que duran demasiado,vitamina c; zinc; proteina,"carne pollo, carne pavo, yogur, queso, tomate, brocoli",parafraseado
+heridas que tardan en curar,los golpes tardan semanas en mejorar,vitamina c; zinc; proteina,"carne pollo, carne pavo, yogur, queso, tomate, brocoli",original
+heridas que tardan en curar,de un tiempo a esta parte los golpes tardan semanas en mejorar y me pasa a menudo,vitamina c; zinc; proteina,"carne pollo, carne pavo, yogur, queso, tomate, brocoli",parafraseado
+heridas que tardan en curar,estos dias los golpes tardan semanas en mejorar y me pasa a menudo,vitamina c; zinc; proteina,"carne pollo, carne pavo, yogur, queso, tomate, brocoli",parafraseado
+heridas que tardan en curar,los golpes tardan semanas en mejorar y me preocupa,vitamina c; zinc; proteina,"carne pollo, carne pavo, yogur, queso, tomate, brocoli",parafraseado
+vision nocturna mala,veo mal cuando hay poca luz,vitamina a,"zanahoria, huevos, leche, mantequilla",original
+vision nocturna mala,veo mal cuando hay poca luz y va a peor,vitamina a,"zanahoria, huevos, leche, mantequilla",parafraseado
+vision nocturna mala,estos dias veo mal cuando hay poca luz,vitamina a,"zanahoria, huevos, leche, mantequilla",parafraseado
+vision nocturna mala,desde hace semanas veo mal cuando hay poca luz y cada vez mas frecuente,vitamina a,"zanahoria, huevos, leche, mantequilla",parafraseado
+vision nocturna mala,me cuesta conducir de noche,vitamina a,"zanahoria, huevos, leche, mantequilla",original
+vision nocturna mala,me cuesta conducir de noche y cada vez mas frecuente,vitamina a,"zanahoria, huevos, leche, mantequilla",parafraseado
+vision nocturna mala,de un tiempo a esta parte me cuesta conducir de noche y me preocupa,vitamina a,"zanahoria, huevos, leche, mantequilla",parafraseado
+vision nocturna mala,desde hace semanas me cuesta conducir de noche y me preocupa,vitamina a,"zanahoria, huevos, leche, mantequilla",parafraseado
+vision nocturna mala,tardo en adaptarme a la oscuridad,vitamina a,"zanahoria, huevos, leche, mantequilla",original
+vision nocturna mala,de un tiempo a esta parte tardo en adaptarme a la oscuridad,vitamina a,"zanahoria, huevos, leche, mantequilla",parafraseado
+vision nocturna mala,estos dias tardo en adaptarme a la oscuridad,vitamina a,"zanahoria, huevos, leche, mantequilla",parafraseado
+vision nocturna mala,ultimamente tardo en adaptarme a la oscuridad y me pasa a menudo,vitamina a,"zanahoria, huevos, leche, mantequilla",parafraseado
+vision nocturna mala,la vision nocturna me falla,vitamina a,"zanahoria, huevos, leche, mantequilla",original
+vision nocturna mala,desde hace semanas la vision nocturna me falla y no se por que,vitamina a,"zanahoria, huevos, leche, mantequilla",parafraseado
+vision nocturna mala,ultimamente la vision nocturna me falla y cada vez mas frecuente,vitamina a,"zanahoria, huevos, leche, mantequilla",parafraseado
+vision nocturna mala,desde hace semanas la vision nocturna me falla,vitamina a,"zanahoria, huevos, leche, mantequilla",parafraseado
+vision nocturna mala,necesito mas luz para ver bien por la noche,vitamina a,"zanahoria, huevos, leche, mantequilla",original
+vision nocturna mala,necesito mas luz para ver bien por la noche y me preocupa,vitamina a,"zanahoria, huevos, leche, mantequilla",parafraseado
+vision nocturna mala,ultimamente necesito mas luz para ver bien por la noche y me pasa a menudo,vitamina a,"zanahoria, huevos, leche, mantequilla",parafraseado
+vision nocturna mala,desde hace semanas necesito mas luz para ver bien por la noche y me preocupa,vitamina a,"zanahoria, huevos, leche, mantequilla",parafraseado
+debilidad muscular,siento debilidad en los musculos,vitamina d; magnesio; potasio; calcio,"salmon, leche, yogur, platano, queso, brocoli",original
+debilidad muscular,por las mananas siento debilidad en los musculos y no se por que,vitamina d; magnesio; potasio; calcio,"salmon, leche, yogur, platano, queso, brocoli",parafraseado
+debilidad muscular,siento debilidad en los musculos y me preocupa,vitamina d; magnesio; potasio; calcio,"salmon, leche, yogur, platano, queso, brocoli",parafraseado
+debilidad muscular,por las mananas siento debilidad en los musculos,vitamina d; magnesio; potasio; calcio,"salmon, leche, yogur, platano, queso, brocoli",parafraseado
+debilidad muscular,me falta fuerza al subir escaleras,vitamina d; magnesio; potasio; calcio,"salmon, leche, yogur, platano, queso, brocoli",original
+debilidad muscular,ultimamente me falta fuerza al subir escaleras y cada vez mas frecuente,vitamina d; magnesio; potasio; calcio,"salmon, leche, yogur, platano, queso, brocoli",parafraseado
+debilidad muscular,me falta fuerza al subir escaleras y va a peor,vitamina d; magnesio; potasio; calcio,"salmon, leche, yogur, platano, queso, brocoli",parafraseado
+debilidad muscular,me falta fuerza al subir escaleras y cada vez mas frecuente,vitamina d; magnesio; potasio; calcio,"salmon, leche, yogur, platano, queso, brocoli",parafraseado
+debilidad muscular,se me cansan los brazos rapidamente,vitamina d; magnesio; potasio; calcio,"salmon, leche, yogur, platano, queso, brocoli",original
+debilidad muscular,se me cansan los brazos rapidamente y no se por que,vitamina d; magnesio; potasio; calcio,"salmon, leche, yogur, platano, queso, brocoli",parafraseado
+debilidad muscular,por las mananas se me cansan los brazos rapidamente y me preocupa,vitamina d; magnesio; potasio; calcio,"salmon, leche, yogur, platano, queso, brocoli",parafraseado
+debilidad muscular,ultimamente se me cansan los brazos rapidamente y va a peor,vitamina d; magnesio; potasio; calcio,"salmon, leche, yogur, platano, queso, brocoli",parafraseado
+debilidad muscular,me tiemblan los musculos con esfuerzos leves,vitamina d; magnesio; potasio; calcio,"salmon, leche, yogur, platano, queso, brocoli",original
+debilidad muscular,por las mananas me tiemblan los musculos con esfuerzos leves y me pasa a menudo,vitamina d; magnesio; potasio; calcio,"salmon, leche, yogur, platano, queso, brocoli",parafraseado
+debilidad muscular,ultimamente me tiemblan los musculos con esfuerzos leves y cada vez mas frecuente,vitamina d; magnesio; potasio; calcio,"salmon, leche, yogur, platano, queso, brocoli",parafraseado
+debilidad muscular,me tiemblan los musculos con esfuerzos leves y va a peor,vitamina d; magnesio; potasio; calcio,"salmon, leche, yogur, platano, queso, brocoli",parafraseado
+debilidad muscular,me cuesta levantar peso que antes podia,vitamina d; magnesio; potasio; calcio,"salmon, leche, yogur, platano, queso, brocoli",original
+debilidad muscular,estos dias me cuesta levantar peso que antes podia y va a peor,vitamina d; magnesio; potasio; calcio,"salmon, leche, yogur, platano, queso, brocoli",parafraseado
+debilidad muscular,estos dias me cuesta levantar peso que antes podia,vitamina d; magnesio; potasio; calcio,"salmon, leche, yogur, platano, queso, brocoli",parafraseado
+debilidad muscular,por las mananas me cuesta levantar peso que antes podia y me preocupa,vitamina d; magnesio; potasio; calcio,"salmon, leche, yogur, platano, queso, brocoli",parafraseado
+calambres musculares,me dan calambres por la noche,magnesio; potasio; calcio,"platano, yogur, leche, queso, calabacines, tomate",original
+calambres musculares,me dan tirones musculares por la noche,magnesio; potasio; calcio,"platano, yogur, leche, queso, calabacines, tomate",parafraseado
+calambres musculares,por las mananas me dan espasmos por la noche,magnesio; potasio; calcio,"platano, yogur, leche, queso, calabacines, tomate",parafraseado
+calambres musculares,estos dias me dan espasmos por la noche y cada vez mas frecuente,magnesio; potasio; calcio,"platano, yogur, leche, queso, calabacines, tomate",parafraseado
+calambres musculares,tengo tirones musculares en las pantorrillas,magnesio; potasio; calcio,"platano, yogur, leche, queso, calabacines, tomate",original
+calambres musculares,por las mananas tengo tirones musculares en las pantorrillas y me pasa a menudo,magnesio; potasio; calcio,"platano, yogur, leche, queso, calabacines, tomate",parafraseado
+calambres musculares,estos dias tengo tirones musculares en las pantorrillas,magnesio; potasio; calcio,"platano, yogur, leche, queso, calabacines, tomate",parafraseado
+calambres musculares,tengo tirones musculares en las pantorrillas y cada vez mas frecuente,magnesio; potasio; calcio,"platano, yogur, leche, queso, calabacines, tomate",parafraseado
+calambres musculares,siento espasmos en las piernas,magnesio; potasio; calcio,"platano, yogur, leche, queso, calabacines, tomate",original
+calambres musculares,de un tiempo a esta parte siento espasmos en las piernas y me preocupa,magnesio; potasio; calcio,"platano, yogur, leche, queso, calabacines, tomate",parafraseado
+calambres musculares,ultimamente siento espasmos en las piernas,magnesio; potasio; calcio,"platano, yogur, leche, queso, calabacines, tomate",parafraseado
+calambres musculares,de un tiempo a esta parte siento espasmos en las piernas y va a peor,magnesio; potasio; calcio,"platano, yogur, leche, queso, calabacines, tomate",parafraseado
+calambres musculares,se me encogen los musculos de repente,magnesio; potasio; calcio,"platano, yogur, leche, queso, calabacines, tomate",original
+calambres musculares,estos dias se me encogen los musculos de repente,magnesio; potasio; calcio,"platano, yogur, leche, queso, calabacines, tomate",parafraseado
+calambres musculares,estos dias se me encogen los musculos de repente y cada vez mas frecuente,magnesio; potasio; calcio,"platano, yogur, leche, queso, calabacines, tomate",parafraseado
+calambres musculares,se me encogen los musculos de repente y cada vez mas frecuente,magnesio; potasio; calcio,"platano, yogur, leche, queso, calabacines, tomate",parafraseado
+calambres musculares,me despierto con calambres en los pies,magnesio; potasio; calcio,"platano, yogur, leche, queso, calabacines, tomate",original
+calambres musculares,me despierto con espasmos en los pies,magnesio; potasio; calcio,"platano, yogur, leche, queso, calabacines, tomate",parafraseado
+calambres musculares,de un tiempo a esta parte me despierto con tirones musculares en los pies,magnesio; potasio; calcio,"platano, yogur, leche, queso, calabacines, tomate",parafraseado
+calambres musculares,me despierto con tirones musculares en los pies y no se por que,magnesio; potasio; calcio,"platano, yogur, leche, queso, calabacines, tomate",parafraseado
+irritabilidad,estoy mas irritable de lo normal,vitamina b6; vitamina d; omega-3,"carne pollo, salmon, platano, leche, huevos",original
+irritabilidad,estoy mas irritable de lo normal y me preocupa,vitamina b6; vitamina d; omega-3,"carne pollo, salmon, platano, leche, huevos",parafraseado
+irritabilidad,ultimamente estoy mas irritable de lo normal y cada vez mas frecuente,vitamina b6; vitamina d; omega-3,"carne pollo, salmon, platano, leche, huevos",parafraseado
+irritabilidad,de un tiempo a esta parte estoy mas irritable de lo normal y no se por que,vitamina b6; vitamina d; omega-3,"carne pollo, salmon, platano, leche, huevos",parafraseado
+irritabilidad,cambio de humor con facilidad,vitamina b6; vitamina d; omega-3,"carne pollo, salmon, platano, leche, huevos",original
+irritabilidad,cambio de humor con facilidad y me preocupa,vitamina b6; vitamina d; omega-3,"carne pollo, salmon, platano, leche, huevos",parafraseado
+irritabilidad,de un tiempo a esta parte cambio de humor con facilidad,vitamina b6; vitamina d; omega-3,"carne pollo, salmon, platano, leche, huevos",parafraseado
+irritabilidad,ultimamente cambio de humor con facilidad,vitamina b6; vitamina d; omega-3,"carne pollo, salmon, platano, leche, huevos",parafraseado
+irritabilidad,me molesta todo y tengo poca paciencia,vitamina b6; vitamina d; omega-3,"carne pollo, salmon, platano, leche, huevos",original
+irritabilidad,me molesta todo y tengo poca paciencia y me preocupa,vitamina b6; vitamina d; omega-3,"carne pollo, salmon, platano, leche, huevos",parafraseado
+irritabilidad,me molesta todo y tengo poca paciencia y cada vez mas frecuente,vitamina b6; vitamina d; omega-3,"carne pollo, salmon, platano, leche, huevos",parafraseado
+irritabilidad,estos dias me molesta todo y tengo poca paciencia y me pasa a menudo,vitamina b6; vitamina d; omega-3,"carne pollo, salmon, platano, leche, huevos",parafraseado
+irritabilidad,estoy tenso y me enfado por pequenas cosas,vitamina b6; vitamina d; omega-3,"carne pollo, salmon, platano, leche, huevos",original
+irritabilidad,estoy tenso y me enfado por pequenas cosas y me pasa a menudo,vitamina b6; vitamina d; omega-3,"carne pollo, salmon, platano, leche, huevos",parafraseado
+irritabilidad,ultimamente estoy tenso y me enfado por pequenas cosas,vitamina b6; vitamina d; omega-3,"carne pollo, salmon, platano, leche, huevos",parafraseado
+irritabilidad,desde hace semanas estoy tenso y me enfado por pequenas cosas,vitamina b6; vitamina d; omega-3,"carne pollo, salmon, platano, leche, huevos",parafraseado
+irritabilidad,siento irritabilidad sin motivo claro,vitamina b6; vitamina d; omega-3,"carne pollo, salmon, platano, leche, huevos",original
+irritabilidad,estos dias siento irritabilidad sin motivo claro y no se por que,vitamina b6; vitamina d; omega-3,"carne pollo, salmon, platano, leche, huevos",parafraseado
+irritabilidad,de un tiempo a esta parte siento irritabilidad sin motivo claro,vitamina b6; vitamina d; omega-3,"carne pollo, salmon, platano, leche, huevos",parafraseado
+irritabilidad,de un tiempo a esta parte siento irritabilidad sin motivo claro y cada vez mas frecuente,vitamina b6; vitamina d; omega-3,"carne pollo, salmon, platano, leche, huevos",parafraseado
+ansiedad,me siento nervioso gran parte del dia,magnesio; vitamina b6; omega-3,"platano, yogur, salmon, carne pollo",original
+ansiedad,de un tiempo a esta parte me noto nervioso gran parte del dia y me preocupa,magnesio; vitamina b6; omega-3,"platano, yogur, salmon, carne pollo",parafraseado
+ansiedad,por las mananas me noto nervioso gran parte del dia,magnesio; vitamina b6; omega-3,"platano, yogur, salmon, carne pollo",parafraseado
+ansiedad,me percibo nervioso gran parte del dia y me pasa a menudo,magnesio; vitamina b6; omega-3,"platano, yogur, salmon, carne pollo",parafraseado
+ansiedad,me cuesta relajarme y estoy inquieto,magnesio; vitamina b6; omega-3,"platano, yogur, salmon, carne pollo",original
+ansiedad,desde hace semanas me cuesta relajarme y estoy inquieto,magnesio; vitamina b6; omega-3,"platano, yogur, salmon, carne pollo",parafraseado
+ansiedad,me cuesta relajarme y estoy inquieto y me preocupa,magnesio; vitamina b6; omega-3,"platano, yogur, salmon, carne pollo",parafraseado
+ansiedad,de un tiempo a esta parte me cuesta relajarme y estoy inquieto y no se por que,magnesio; vitamina b6; omega-3,"platano, yogur, salmon, carne pollo",parafraseado
+ansiedad,tengo sensacion constante de ansiedad,magnesio; vitamina b6; omega-3,"platano, yogur, salmon, carne pollo",original
+ansiedad,ultimamente tengo sensacion constante de ansiedad,magnesio; vitamina b6; omega-3,"platano, yogur, salmon, carne pollo",parafraseado
+ansiedad,desde hace semanas tengo sensacion constante de ansiedad y no se por que,magnesio; vitamina b6; omega-3,"platano, yogur, salmon, carne pollo",parafraseado
+ansiedad,tengo sensacion constante de ansiedad y cada vez mas frecuente,magnesio; vitamina b6; omega-3,"platano, yogur, salmon, carne pollo",parafraseado
+ansiedad,me preocupan cosas pequenas y no paro,magnesio; vitamina b6; omega-3,"platano, yogur, salmon, carne pollo",original
+ansiedad,estos dias me preocupan cosas pequenas y no paro y no se por que,magnesio; vitamina b6; omega-3,"platano, yogur, salmon, carne pollo",parafraseado
+ansiedad,me preocupan cosas pequenas y no paro y va a peor,magnesio; vitamina b6; omega-3,"platano, yogur, salmon, carne pollo",parafraseado
+ansiedad,de un tiempo a esta parte me preocupan cosas pequenas y no paro y va a peor,magnesio; vitamina b6; omega-3,"platano, yogur, salmon, carne pollo",parafraseado
+ansiedad,duermo mal por nervios,magnesio; vitamina b6; omega-3,"platano, yogur, salmon, carne pollo",original
+ansiedad,de un tiempo a esta parte duermo mal por nervios y me pasa a menudo,magnesio; vitamina b6; omega-3,"platano, yogur, salmon, carne pollo",parafraseado
+ansiedad,de un tiempo a esta parte duermo mal por nervios y va a peor,magnesio; vitamina b6; omega-3,"platano, yogur, salmon, carne pollo",parafraseado
+ansiedad,desde hace semanas duermo mal por nervios y cada vez mas frecuente,magnesio; vitamina b6; omega-3,"platano, yogur, salmon, carne pollo",parafraseado
+animo bajo,me siento con animo bajo estos dias,vitamina d; omega-3; vitamina b12,"salmon, leche, yogur, huevos, merluza",original
+animo bajo,estos dias me percibo con animo bajo estos dias y no se por que,vitamina d; omega-3; vitamina b12,"salmon, leche, yogur, huevos, merluza",parafraseado
+animo bajo,ultimamente me percibo con animo bajo estos dias y cada vez mas frecuente,vitamina d; omega-3; vitamina b12,"salmon, leche, yogur, huevos, merluza",parafraseado
+animo bajo,estoy con animo bajo estos dias y me pasa a menudo,vitamina d; omega-3; vitamina b12,"salmon, leche, yogur, huevos, merluza",parafraseado
+animo bajo,tengo tristezas y poca motivacion,vitamina d; omega-3; vitamina b12,"salmon, leche, yogur, huevos, merluza",original
+animo bajo,estos dias tengo tristezas y poca motivacion y cada vez mas frecuente,vitamina d; omega-3; vitamina b12,"salmon, leche, yogur, huevos, merluza",parafraseado
+animo bajo,por las mananas tengo tristezas y poca motivacion y me pasa a menudo,vitamina d; omega-3; vitamina b12,"salmon, leche, yogur, huevos, merluza",parafraseado
+animo bajo,tengo tristezas y poca motivacion y me preocupa,vitamina d; omega-3; vitamina b12,"salmon, leche, yogur, huevos, merluza",parafraseado
+animo bajo,me cuesta disfrutar de las cosas,vitamina d; omega-3; vitamina b12,"salmon, leche, yogur, huevos, merluza",original
+animo bajo,ultimamente me cuesta disfrutar de las cosas,vitamina d; omega-3; vitamina b12,"salmon, leche, yogur, huevos, merluza",parafraseado
+animo bajo,me cuesta disfrutar de las cosas y me preocupa,vitamina d; omega-3; vitamina b12,"salmon, leche, yogur, huevos, merluza",parafraseado
+animo bajo,por las mananas me cuesta disfrutar de las cosas y me pasa a menudo,vitamina d; omega-3; vitamina b12,"salmon, leche, yogur, huevos, merluza",parafraseado
+animo bajo,me noto apagado y sin ganas,vitamina d; omega-3; vitamina b12,"salmon, leche, yogur, huevos, merluza",original
+animo bajo,estos dias me noto apagado y sin ganas,vitamina d; omega-3; vitamina b12,"salmon, leche, yogur, huevos, merluza",parafraseado
+animo bajo,me noto apagado y sin ganas y va a peor,vitamina d; omega-3; vitamina b12,"salmon, leche, yogur, huevos, merluza",parafraseado
+animo bajo,de un tiempo a esta parte me noto apagado y sin ganas y va a peor,vitamina d; omega-3; vitamina b12,"salmon, leche, yogur, huevos, merluza",parafraseado
+animo bajo,me levanto desanimado,vitamina d; omega-3; vitamina b12,"salmon, leche, yogur, huevos, merluza",original
+animo bajo,desde hace semanas me levanto desanimado,vitamina d; omega-3; vitamina b12,"salmon, leche, yogur, huevos, merluza",parafraseado
+animo bajo,me levanto desanimado y cada vez mas frecuente,vitamina d; omega-3; vitamina b12,"salmon, leche, yogur, huevos, merluza",parafraseado
+animo bajo,por las mananas me levanto desanimado,vitamina d; omega-3; vitamina b12,"salmon, leche, yogur, huevos, merluza",parafraseado
+dificultad para concentrarse,me cuesta concentrarme en el trabajo,vitamina b12; omega-3; hierro,"carne vacuno, salmon, huevos, yogur",original
+dificultad para concentrarse,por las mananas pierdo el foco en el trabajo y no se por que,vitamina b12; omega-3; hierro,"carne vacuno, salmon, huevos, yogur",parafraseado
+dificultad para concentrarse,tengo problemas para concentrarme en el trabajo y me pasa a menudo,vitamina b12; omega-3; hierro,"carne vacuno, salmon, huevos, yogur",parafraseado
+dificultad para concentrarse,pierdo el foco en el trabajo,vitamina b12; omega-3; hierro,"carne vacuno, salmon, huevos, yogur",parafraseado
+dificultad para concentrarse,pierdo el foco con facilidad,vitamina b12; omega-3; hierro,"carne vacuno, salmon, huevos, yogur",original
+dificultad para concentrarse,ultimamente pierdo el foco con facilidad,vitamina b12; omega-3; hierro,"carne vacuno, salmon, huevos, yogur",parafraseado
+dificultad para concentrarse,pierdo el foco con facilidad y no se por que,vitamina b12; omega-3; hierro,"carne vacuno, salmon, huevos, yogur",parafraseado
+dificultad para concentrarse,estos dias pierdo el foco con facilidad,vitamina b12; omega-3; hierro,"carne vacuno, salmon, huevos, yogur",parafraseado
+dificultad para concentrarse,me distraigo todo el tiempo,vitamina b12; omega-3; hierro,"carne vacuno, salmon, huevos, yogur",original
+dificultad para concentrarse,de un tiempo a esta parte me distraigo todo el tiempo,vitamina b12; omega-3; hierro,"carne vacuno, salmon, huevos, yogur",parafraseado
+dificultad para concentrarse,desde hace semanas me distraigo todo el tiempo y va a peor,vitamina b12; omega-3; hierro,"carne vacuno, salmon, huevos, yogur",parafraseado
+dificultad para concentrarse,de un tiempo a esta parte me distraigo todo el tiempo y me preocupa,vitamina b12; omega-3; hierro,"carne vacuno, salmon, huevos, yogur",parafraseado
+dificultad para concentrarse,tardo mucho en terminar tareas,vitamina b12; omega-3; hierro,"carne vacuno, salmon, huevos, yogur",original
+dificultad para concentrarse,tardo mucho en terminar tareas y va a peor,vitamina b12; omega-3; hierro,"carne vacuno, salmon, huevos, yogur",parafraseado
+dificultad para concentrarse,desde hace semanas tardo mucho en terminar tareas y me pasa a menudo,vitamina b12; omega-3; hierro,"carne vacuno, salmon, huevos, yogur",parafraseado
+dificultad para concentrarse,de un tiempo a esta parte tardo mucho en terminar tareas y cada vez mas frecuente,vitamina b12; omega-3; hierro,"carne vacuno, salmon, huevos, yogur",parafraseado
+dificultad para concentrarse,olvido lo que estaba haciendo,vitamina b12; omega-3; hierro,"carne vacuno, salmon, huevos, yogur",original
+dificultad para concentrarse,olvido lo que estaba haciendo y no se por que,vitamina b12; omega-3; hierro,"carne vacuno, salmon, huevos, yogur",parafraseado
+dificultad para concentrarse,por las mananas olvido lo que estaba haciendo y va a peor,vitamina b12; omega-3; hierro,"carne vacuno, salmon, huevos, yogur",parafraseado
+dificultad para concentrarse,ultimamente olvido lo que estaba haciendo y va a peor,vitamina b12; omega-3; hierro,"carne vacuno, salmon, huevos, yogur",parafraseado
+mareos,siento mareos al levantarme,hierro; vitamina b12,"carne vacuno, carne pavo, huevos, merluza, salchichas",original
+mareos,desde hace semanas siento mareos al levantarme y me preocupa,hierro; vitamina b12,"carne vacuno, carne pavo, huevos, merluza, salchichas",parafraseado
+mareos,estos dias siento mareos al levantarme y va a peor,hierro; vitamina b12,"carne vacuno, carne pavo, huevos, merluza, salchichas",parafraseado
+mareos,desde hace semanas siento mareos al levantarme y me pasa a menudo,hierro; vitamina b12,"carne vacuno, carne pavo, huevos, merluza, salchichas",parafraseado
+mareos,a veces todo me gira,hierro; vitamina b12,"carne vacuno, carne pavo, huevos, merluza, salchichas",original
+mareos,estos dias a veces todo me gira,hierro; vitamina b12,"carne vacuno, carne pavo, huevos, merluza, salchichas",parafraseado
+mareos,estos dias a veces todo me gira y me preocupa,hierro; vitamina b12,"carne vacuno, carne pavo, huevos, merluza, salchichas",parafraseado
+mareos,desde hace semanas a veces todo me gira y me preocupa,hierro; vitamina b12,"carne vacuno, carne pavo, huevos, merluza, salchichas",parafraseado
+mareos,me dan vahidos cuando camino,hierro; vitamina b12,"carne vacuno, carne pavo, huevos, merluza, salchichas",original
+mareos,por las mananas me dan vahidos cuando camino y cada vez mas frecuente,hierro; vitamina b12,"carne vacuno, carne pavo, huevos, merluza, salchichas",parafraseado
+mareos,desde hace semanas me dan vahidos cuando camino y me preocupa,hierro; vitamina b12,"carne vacuno, carne pavo, huevos, merluza, salchichas",parafraseado
+mareos,me dan vahidos cuando camino y cada vez mas frecuente,hierro; vitamina b12,"carne vacuno, carne pavo, huevos, merluza, salchichas",parafraseado
+mareos,pierdo el equilibrio de repente,hierro; vitamina b12,"carne vacuno, carne pavo, huevos, merluza, salchichas",original
+mareos,de un tiempo a esta parte pierdo el equilibrio de repente y me pasa a menudo,hierro; vitamina b12,"carne vacuno, carne pavo, huevos, merluza, salchichas",parafraseado
+mareos,desde hace semanas pierdo el equilibrio de repente y no se por que,hierro; vitamina b12,"carne vacuno, carne pavo, huevos, merluza, salchichas",parafraseado
+mareos,de un tiempo a esta parte pierdo el equilibrio de repente,hierro; vitamina b12,"carne vacuno, carne pavo, huevos, merluza, salchichas",parafraseado
+mareos,me siento aturdido con frecuencia,hierro; vitamina b12,"carne vacuno, carne pavo, huevos, merluza, salchichas",original
+mareos,de un tiempo a esta parte estoy aturdido con frecuencia y me preocupa,hierro; vitamina b12,"carne vacuno, carne pavo, huevos, merluza, salchichas",parafraseado
+mareos,por las mananas me percibo aturdido con frecuencia y me pasa a menudo,hierro; vitamina b12,"carne vacuno, carne pavo, huevos, merluza, salchichas",parafraseado
+mareos,me percibo aturdido con frecuencia y me pasa a menudo,hierro; vitamina b12,"carne vacuno, carne pavo, huevos, merluza, salchichas",parafraseado
+palidez,me dicen que estoy muy palido,hierro,"carne vacuno, carne cerdo, carne pollo, huevos",original
+palidez,estos dias me dicen que estoy muy palido y me pasa a menudo,hierro,"carne vacuno, carne cerdo, carne pollo, huevos",parafraseado
+palidez,por las mananas me dicen que estoy muy palido y cada vez mas frecuente,hierro,"carne vacuno, carne cerdo, carne pollo, huevos",parafraseado
+palidez,estos dias me dicen que estoy muy palido,hierro,"carne vacuno, carne cerdo, carne pollo, huevos",parafraseado
+palidez,mi cara se ve sin color,hierro,"carne vacuno, carne cerdo, carne pollo, huevos",original
+palidez,de un tiempo a esta parte mi cara se ve sin color,hierro,"carne vacuno, carne cerdo, carne pollo, huevos",parafraseado
+palidez,ultimamente mi cara se ve sin color y no se por que,hierro,"carne vacuno, carne cerdo, carne pollo, huevos",parafraseado
+palidez,ultimamente mi cara se ve sin color y me pasa a menudo,hierro,"carne vacuno, carne cerdo, carne pollo, huevos",parafraseado
+palidez,tengo aspecto palido ultimamente,hierro,"carne vacuno, carne cerdo, carne pollo, huevos",original
+palidez,tengo aspecto palido ultimamente y me preocupa,hierro,"carne vacuno, carne cerdo, carne pollo, huevos",parafraseado
+palidez,estos dias tengo aspecto palido ultimamente,hierro,"carne vacuno, carne cerdo, carne pollo, huevos",parafraseado
+palidez,por las mananas tengo aspecto palido ultimamente y va a peor,hierro,"carne vacuno, carne cerdo, carne pollo, huevos",parafraseado
+palidez,me noto mas blanco que de costumbre,hierro,"carne vacuno, carne cerdo, carne pollo, huevos",original
+palidez,me noto mas blanco que de costumbre y va a peor,hierro,"carne vacuno, carne cerdo, carne pollo, huevos",parafraseado
+palidez,me noto mas blanco que de costumbre y no se por que,hierro,"carne vacuno, carne cerdo, carne pollo, huevos",parafraseado
+palidez,ultimamente me noto mas blanco que de costumbre,hierro,"carne vacuno, carne cerdo, carne pollo, huevos",parafraseado
+palidez,se me va el color de la piel,hierro,"carne vacuno, carne cerdo, carne pollo, huevos",original
+palidez,desde hace semanas se me va el color de la piel y no se por que,hierro,"carne vacuno, carne cerdo, carne pollo, huevos",parafraseado
+palidez,ultimamente se me va el color de la piel,hierro,"carne vacuno, carne cerdo, carne pollo, huevos",parafraseado
+palidez,se me va el color de la piel y me pasa a menudo,hierro,"carne vacuno, carne cerdo, carne pollo, huevos",parafraseado
+hormigueo en manos o pies,siento hormigueo en las manos,vitamina b12; vitamina b6,"huevos, leche, yogur, carne vacuno, salmon",original
+hormigueo en manos o pies,de un tiempo a esta parte siento hormigueo en las manos y va a peor,vitamina b12; vitamina b6,"huevos, leche, yogur, carne vacuno, salmon",parafraseado
+hormigueo en manos o pies,de un tiempo a esta parte siento hormigueo en las manos,vitamina b12; vitamina b6,"huevos, leche, yogur, carne vacuno, salmon",parafraseado
+hormigueo en manos o pies,siento hormigueo en las manos y me pasa a menudo,vitamina b12; vitamina b6,"huevos, leche, yogur, carne vacuno, salmon",parafraseado
+hormigueo en manos o pies,tengo pinchazos en los dedos,vitamina b12; vitamina b6,"huevos, leche, yogur, carne vacuno, salmon",original
+hormigueo en manos o pies,ultimamente tengo pinchazos en los dedos,vitamina b12; vitamina b6,"huevos, leche, yogur, carne vacuno, salmon",parafraseado
+hormigueo en manos o pies,desde hace semanas tengo pinchazos en los dedos y cada vez mas frecuente,vitamina b12; vitamina b6,"huevos, leche, yogur, carne vacuno, salmon",parafraseado
+hormigueo en manos o pies,por las mananas tengo pinchazos en los dedos y me preocupa,vitamina b12; vitamina b6,"huevos, leche, yogur, carne vacuno, salmon",parafraseado
+hormigueo en manos o pies,se me duermen los pies a menudo,vitamina b12; vitamina b6,"huevos, leche, yogur, carne vacuno, salmon",original
+hormigueo en manos o pies,por las mananas se me duermen los pies a menudo y va a peor,vitamina b12; vitamina b6,"huevos, leche, yogur, carne vacuno, salmon",parafraseado
+hormigueo en manos o pies,se me duermen los pies a menudo y va a peor,vitamina b12; vitamina b6,"huevos, leche, yogur, carne vacuno, salmon",parafraseado
+hormigueo en manos o pies,estos dias se me duermen los pies a menudo y cada vez mas frecuente,vitamina b12; vitamina b6,"huevos, leche, yogur, carne vacuno, salmon",parafraseado
+hormigueo en manos o pies,noto cosquilleo en las piernas,vitamina b12; vitamina b6,"huevos, leche, yogur, carne vacuno, salmon",original
+hormigueo en manos o pies,ultimamente noto cosquilleo en las piernas y me preocupa,vitamina b12; vitamina b6,"huevos, leche, yogur, carne vacuno, salmon",parafraseado
+hormigueo en manos o pies,noto cosquilleo en las piernas y me pasa a menudo,vitamina b12; vitamina b6,"huevos, leche, yogur, carne vacuno, salmon",parafraseado
+hormigueo en manos o pies,por las mananas noto cosquilleo en las piernas y me preocupa,vitamina b12; vitamina b6,"huevos, leche, yogur, carne vacuno, salmon",parafraseado
+hormigueo en manos o pies,siento calambre leve en las manos y pies,vitamina b12; vitamina b6,"huevos, leche, yogur, carne vacuno, salmon",original
+hormigueo en manos o pies,ultimamente siento calambre leve en las manos y pies y va a peor,vitamina b12; vitamina b6,"huevos, leche, yogur, carne vacuno, salmon",parafraseado
+hormigueo en manos o pies,de un tiempo a esta parte siento calambre leve en las manos y pies y cada vez mas frecuente,vitamina b12; vitamina b6,"huevos, leche, yogur, carne vacuno, salmon",parafraseado
+hormigueo en manos o pies,siento calambre leve en las manos y pies y va a peor,vitamina b12; vitamina b6,"huevos, leche, yogur, carne vacuno, salmon",parafraseado
+grietas en comisuras de la boca,me salen grietas en las comisuras,riboflavina (b2); vitamina b6; hierro,"leche, yogur, queso, carne vacuno, huevos",original
+grietas en comisuras de la boca,me salen grietas en las comisuras y no se por que,riboflavina (b2); vitamina b6; hierro,"leche, yogur, queso, carne vacuno, huevos",parafraseado
+grietas en comisuras de la boca,ultimamente me salen grietas en las comisuras,riboflavina (b2); vitamina b6; hierro,"leche, yogur, queso, carne vacuno, huevos",parafraseado
+grietas en comisuras de la boca,me salen grietas en las comisuras y me pasa a menudo,riboflavina (b2); vitamina b6; hierro,"leche, yogur, queso, carne vacuno, huevos",parafraseado
+grietas en comisuras de la boca,tengo boqueras que duelen,riboflavina (b2); vitamina b6; hierro,"leche, yogur, queso, carne vacuno, huevos",original
+grietas en comisuras de la boca,desde hace semanas tengo boqueras que duelen y cada vez mas frecuente,riboflavina (b2); vitamina b6; hierro,"leche, yogur, queso, carne vacuno, huevos",parafraseado
+grietas en comisuras de la boca,por las mananas tengo boqueras que duelen y va a peor,riboflavina (b2); vitamina b6; hierro,"leche, yogur, queso, carne vacuno, huevos",parafraseado
+grietas en comisuras de la boca,ultimamente tengo boqueras que duelen y me pasa a menudo,riboflavina (b2); vitamina b6; hierro,"leche, yogur, queso, carne vacuno, huevos",parafraseado
+grietas en comisuras de la boca,se me agrietan las esquinas de la boca,riboflavina (b2); vitamina b6; hierro,"leche, yogur, queso, carne vacuno, huevos",original
+grietas en comisuras de la boca,se me agrietan las esquinas de la boca y me pasa a menudo,riboflavina (b2); vitamina b6; hierro,"leche, yogur, queso, carne vacuno, huevos",parafraseado
+grietas en comisuras de la boca,se me agrietan las esquinas de la boca y va a peor,riboflavina (b2); vitamina b6; hierro,"leche, yogur, queso, carne vacuno, huevos",parafraseado
+grietas en comisuras de la boca,se me agrietan las esquinas de la boca y me preocupa,riboflavina (b2); vitamina b6; hierro,"leche, yogur, queso, carne vacuno, huevos",parafraseado
+grietas en comisuras de la boca,me arden las comisuras labiales,riboflavina (b2); vitamina b6; hierro,"leche, yogur, queso, carne vacuno, huevos",original
+grietas en comisuras de la boca,de un tiempo a esta parte me arden las comisuras labiales,riboflavina (b2); vitamina b6; hierro,"leche, yogur, queso, carne vacuno, huevos",parafraseado
+grietas en comisuras de la boca,me arden las comisuras labiales y me pasa a menudo,riboflavina (b2); vitamina b6; hierro,"leche, yogur, queso, carne vacuno, huevos",parafraseado
+grietas en comisuras de la boca,me arden las comisuras labiales y me preocupa,riboflavina (b2); vitamina b6; hierro,"leche, yogur, queso, carne vacuno, huevos",parafraseado
+grietas en comisuras de la boca,se me abren cortes pequenos al reir,riboflavina (b2); vitamina b6; hierro,"leche, yogur, queso, carne vacuno, huevos",original
+grietas en comisuras de la boca,por las mananas se me abren cortes pequenos al reir,riboflavina (b2); vitamina b6; hierro,"leche, yogur, queso, carne vacuno, huevos",parafraseado
+grietas en comisuras de la boca,por las mananas se me abren cortes pequenos al reir y me pasa a menudo,riboflavina (b2); vitamina b6; hierro,"leche, yogur, queso, carne vacuno, huevos",parafraseado
+grietas en comisuras de la boca,ultimamente se me abren cortes pequenos al reir,riboflavina (b2); vitamina b6; hierro,"leche, yogur, queso, carne vacuno, huevos",parafraseado
+lengua inflamada,tengo la lengua dolorida e inflamada,vitamina b12; folato; riboflavina (b2),"leche, yogur, huevos, lechuga/endivia, brocoli, aguacate",original
+lengua inflamada,desde hace semanas tengo la lengua dolorida e inflamada,vitamina b12; folato; riboflavina (b2),"leche, yogur, huevos, lechuga/endivia, brocoli, aguacate",parafraseado
+lengua inflamada,por las mananas tengo la lengua dolorida e inflamada,vitamina b12; folato; riboflavina (b2),"leche, yogur, huevos, lechuga/endivia, brocoli, aguacate",parafraseado
+lengua inflamada,desde hace semanas tengo la lengua dolorida e inflamada y no se por que,vitamina b12; folato; riboflavina (b2),"leche, yogur, huevos, lechuga/endivia, brocoli, aguacate",parafraseado
+lengua inflamada,siento ardor en la lengua,vitamina b12; folato; riboflavina (b2),"leche, yogur, huevos, lechuga/endivia, brocoli, aguacate",original
+lengua inflamada,siento ardor en la lengua y me preocupa,vitamina b12; folato; riboflavina (b2),"leche, yogur, huevos, lechuga/endivia, brocoli, aguacate",parafraseado
+lengua inflamada,ultimamente siento ardor en la lengua,vitamina b12; folato; riboflavina (b2),"leche, yogur, huevos, lechuga/endivia, brocoli, aguacate",parafraseado
+lengua inflamada,por las mananas siento ardor en la lengua y me pasa a menudo,vitamina b12; folato; riboflavina (b2),"leche, yogur, huevos, lechuga/endivia, brocoli, aguacate",parafraseado
+lengua inflamada,mi lengua esta roja y sensible,vitamina b12; folato; riboflavina (b2),"leche, yogur, huevos, lechuga/endivia, brocoli, aguacate",original
+lengua inflamada,ultimamente mi lengua esta roja y sensible,vitamina b12; folato; riboflavina (b2),"leche, yogur, huevos, lechuga/endivia, brocoli, aguacate",parafraseado
+lengua inflamada,ultimamente mi lengua esta roja y sensible y cada vez mas frecuente,vitamina b12; folato; riboflavina (b2),"leche, yogur, huevos, lechuga/endivia, brocoli, aguacate",parafraseado
+lengua inflamada,mi lengua esta roja y sensible y no se por que,vitamina b12; folato; riboflavina (b2),"leche, yogur, huevos, lechuga/endivia, brocoli, aguacate",parafraseado
+lengua inflamada,me cuesta comer por dolor en la lengua,vitamina b12; folato; riboflavina (b2),"leche, yogur, huevos, lechuga/endivia, brocoli, aguacate",original
+lengua inflamada,me cuesta comer por dolor en la lengua y cada vez mas frecuente,vitamina b12; folato; riboflavina (b2),"leche, yogur, huevos, lechuga/endivia, brocoli, aguacate",parafraseado
+lengua inflamada,desde hace semanas me cuesta comer por dolor en la lengua y no se por que,vitamina b12; folato; riboflavina (b2),"leche, yogur, huevos, lechuga/endivia, brocoli, aguacate",parafraseado
+lengua inflamada,por las mananas me cuesta comer por dolor en la lengua,vitamina b12; folato; riboflavina (b2),"leche, yogur, huevos, lechuga/endivia, brocoli, aguacate",parafraseado
+lengua inflamada,noto la lengua hinchada,vitamina b12; folato; riboflavina (b2),"leche, yogur, huevos, lechuga/endivia, brocoli, aguacate",original
+lengua inflamada,por las mananas noto la lengua hinchada y me pasa a menudo,vitamina b12; folato; riboflavina (b2),"leche, yogur, huevos, lechuga/endivia, brocoli, aguacate",parafraseado
+lengua inflamada,de un tiempo a esta parte noto la lengua hinchada,vitamina b12; folato; riboflavina (b2),"leche, yogur, huevos, lechuga/endivia, brocoli, aguacate",parafraseado
+lengua inflamada,ultimamente noto la lengua hinchada,vitamina b12; folato; riboflavina (b2),"leche, yogur, huevos, lechuga/endivia, brocoli, aguacate",parafraseado
+dermatitis,me salen brotes de dermatitis,niacina (b3); zinc; vitamina b6,"carne pollo, carne vacuno, salmon, queso, yogur",original
+dermatitis,ultimamente me salen brotes de dermatitis y no se por que,niacina (b3); zinc; vitamina b6,"carne pollo, carne vacuno, salmon, queso, yogur",parafraseado
+dermatitis,estos dias me salen brotes de dermatitis y va a peor,niacina (b3); zinc; vitamina b6,"carne pollo, carne vacuno, salmon, queso, yogur",parafraseado
+dermatitis,me salen brotes de dermatitis y me preocupa,niacina (b3); zinc; vitamina b6,"carne pollo, carne vacuno, salmon, queso, yogur",parafraseado
+dermatitis,tengo erupciones y picor en la piel,niacina (b3); zinc; vitamina b6,"carne pollo, carne vacuno, salmon, queso, yogur",original
+dermatitis,ultimamente tengo erupciones y picor en la piel y me pasa a menudo,niacina (b3); zinc; vitamina b6,"carne pollo, carne vacuno, salmon, queso, yogur",parafraseado
+dermatitis,desde hace semanas tengo erupciones y picor en la piel y me preocupa,niacina (b3); zinc; vitamina b6,"carne pollo, carne vacuno, salmon, queso, yogur",parafraseado
+dermatitis,estos dias tengo erupciones y picor en la piel,niacina (b3); zinc; vitamina b6,"carne pollo, carne vacuno, salmon, queso, yogur",parafraseado
+dermatitis,se me irrita la piel con facilidad,niacina (b3); zinc; vitamina b6,"carne pollo, carne vacuno, salmon, queso, yogur",original
+dermatitis,por las mananas se me irrita la piel con facilidad,niacina (b3); zinc; vitamina b6,"carne pollo, carne vacuno, salmon, queso, yogur",parafraseado
+dermatitis,ultimamente se me irrita la piel con facilidad y no se por que,niacina (b3); zinc; vitamina b6,"carne pollo, carne vacuno, salmon, queso, yogur",parafraseado
+dermatitis,por las mananas se me irrita la piel con facilidad y cada vez mas frecuente,niacina (b3); zinc; vitamina b6,"carne pollo, carne vacuno, salmon, queso, yogur",parafraseado
+dermatitis,aparecen placas rojas con comezon,niacina (b3); zinc; vitamina b6,"carne pollo, carne vacuno, salmon, queso, yogur",original
+dermatitis,de un tiempo a esta parte aparecen placas rojas con comezon,niacina (b3); zinc; vitamina b6,"carne pollo, carne vacuno, salmon, queso, yogur",parafraseado
+dermatitis,desde hace semanas aparecen placas rojas con comezon y cada vez mas frecuente,niacina (b3); zinc; vitamina b6,"carne pollo, carne vacuno, salmon, queso, yogur",parafraseado
+dermatitis,desde hace semanas aparecen placas rojas con comezon y no se por que,niacina (b3); zinc; vitamina b6,"carne pollo, carne vacuno, salmon, queso, yogur",parafraseado
+dermatitis,tengo la piel inflamada en zonas,niacina (b3); zinc; vitamina b6,"carne pollo, carne vacuno, salmon, queso, yogur",original
+dermatitis,por las mananas tengo la piel inflamada en zonas y me pasa a menudo,niacina (b3); zinc; vitamina b6,"carne pollo, carne vacuno, salmon, queso, yogur",parafraseado
+dermatitis,de un tiempo a esta parte tengo la piel inflamada en zonas,niacina (b3); zinc; vitamina b6,"carne pollo, carne vacuno, salmon, queso, yogur",parafraseado
+dermatitis,tengo la piel inflamada en zonas y va a peor,niacina (b3); zinc; vitamina b6,"carne pollo, carne vacuno, salmon, queso, yogur",parafraseado
+sabor u olfato alterado,he perdido parte del olfato,zinc,"carne vacuno, gambas/langostinos, mix de marisco/molusco, queso, huevos",original
+sabor u olfato alterado,de un tiempo a esta parte he perdido parte del olfato y me pasa a menudo,zinc,"carne vacuno, gambas/langostinos, mix de marisco/molusco, queso, huevos",parafraseado
+sabor u olfato alterado,estos dias he perdido parte del olfato,zinc,"carne vacuno, gambas/langostinos, mix de marisco/molusco, queso, huevos",parafraseado
+sabor u olfato alterado,por las mananas he perdido parte del olfato,zinc,"carne vacuno, gambas/langostinos, mix de marisco/molusco, queso, huevos",parafraseado
+sabor u olfato alterado,las comidas me saben distinto,zinc,"carne vacuno, gambas/langostinos, mix de marisco/molusco, queso, huevos",original
+sabor u olfato alterado,desde hace semanas las comidas me saben distinto y me preocupa,zinc,"carne vacuno, gambas/langostinos, mix de marisco/molusco, queso, huevos",parafraseado
+sabor u olfato alterado,por las mananas las comidas me saben distinto,zinc,"carne vacuno, gambas/langostinos, mix de marisco/molusco, queso, huevos",parafraseado
+sabor u olfato alterado,ultimamente las comidas me saben distinto,zinc,"carne vacuno, gambas/langostinos, mix de marisco/molusco, queso, huevos",parafraseado
+sabor u olfato alterado,no distingo bien los sabores,zinc,"carne vacuno, gambas/langostinos, mix de marisco/molusco, queso, huevos",original
+sabor u olfato alterado,estos dias no distingo bien los sabores,zinc,"carne vacuno, gambas/langostinos, mix de marisco/molusco, queso, huevos",parafraseado
+sabor u olfato alterado,ultimamente no distingo bien los sabores y cada vez mas frecuente,zinc,"carne vacuno, gambas/langostinos, mix de marisco/molusco, queso, huevos",parafraseado
+sabor u olfato alterado,estos dias no distingo bien los sabores y cada vez mas frecuente,zinc,"carne vacuno, gambas/langostinos, mix de marisco/molusco, queso, huevos",parafraseado
+sabor u olfato alterado,mi olfato esta mas debil,zinc,"carne vacuno, gambas/langostinos, mix de marisco/molusco, queso, huevos",original
+sabor u olfato alterado,desde hace semanas mi olfato esta mas debil y me pasa a menudo,zinc,"carne vacuno, gambas/langostinos, mix de marisco/molusco, queso, huevos",parafraseado
+sabor u olfato alterado,estos dias mi olfato esta mas debil y me pasa a menudo,zinc,"carne vacuno, gambas/langostinos, mix de marisco/molusco, queso, huevos",parafraseado
+sabor u olfato alterado,estos dias mi olfato esta mas debil y cada vez mas frecuente,zinc,"carne vacuno, gambas/langostinos, mix de marisco/molusco, queso, huevos",parafraseado
+sabor u olfato alterado,siento el gusto apagado,zinc,"carne vacuno, gambas/langostinos, mix de marisco/molusco, queso, huevos",original
+sabor u olfato alterado,de un tiempo a esta parte siento el gusto apagado y cada vez mas frecuente,zinc,"carne vacuno, gambas/langostinos, mix de marisco/molusco, queso, huevos",parafraseado
+sabor u olfato alterado,ultimamente siento el gusto apagado,zinc,"carne vacuno, gambas/langostinos, mix de marisco/molusco, queso, huevos",parafraseado
+sabor u olfato alterado,siento el gusto apagado y me pasa a menudo,zinc,"carne vacuno, gambas/langostinos, mix de marisco/molusco, queso, huevos",parafraseado
+frio constante,siempre tengo frio aunque otros no,yodo,"merluza, lubina, salmon, leche, yogur, huevos",original
+frio constante,por las mananas siempre tengo frio aunque otros no y me pasa a menudo,yodo,"merluza, lubina, salmon, leche, yogur, huevos",parafraseado
+frio constante,por las mananas siempre tengo frio aunque otros no y va a peor,yodo,"merluza, lubina, salmon, leche, yogur, huevos",parafraseado
+frio constante,siempre tengo frio aunque otros no y no se por que,yodo,"merluza, lubina, salmon, leche, yogur, huevos",parafraseado
+frio constante,mis manos y pies estan frios,yodo,"merluza, lubina, salmon, leche, yogur, huevos",original
+frio constante,por las mananas mis manos y pies estan frios y me preocupa,yodo,"merluza, lubina, salmon, leche, yogur, huevos",parafraseado
+frio constante,mis manos y pies estan frios y me pasa a menudo,yodo,"merluza, lubina, salmon, leche, yogur, huevos",parafraseado
+frio constante,ultimamente mis manos y pies estan frios y cada vez mas frecuente,yodo,"merluza, lubina, salmon, leche, yogur, huevos",parafraseado
+frio constante,me cuesta entrar en calor,yodo,"merluza, lubina, salmon, leche, yogur, huevos",original
+frio constante,de un tiempo a esta parte me cuesta entrar en calor y me pasa a menudo,yodo,"merluza, lubina, salmon, leche, yogur, huevos",parafraseado
+frio constante,de un tiempo a esta parte me cuesta entrar en calor,yodo,"merluza, lubina, salmon, leche, yogur, huevos",parafraseado
+frio constante,de un tiempo a esta parte me cuesta entrar en calor y me preocupa,yodo,"merluza, lubina, salmon, leche, yogur, huevos",parafraseado
+frio constante,tengo frio incluso en casa,yodo,"merluza, lubina, salmon, leche, yogur, huevos",original
+frio constante,por las mananas tengo frio incluso en casa y me preocupa,yodo,"merluza, lubina, salmon, leche, yogur, huevos",parafraseado
+frio constante,desde hace semanas tengo frio incluso en casa y va a peor,yodo,"merluza, lubina, salmon, leche, yogur, huevos",parafraseado
+frio constante,desde hace semanas tengo frio incluso en casa y me pasa a menudo,yodo,"merluza, lubina, salmon, leche, yogur, huevos",parafraseado
+frio constante,siento escalofrios leves a menudo,yodo,"merluza, lubina, salmon, leche, yogur, huevos",original
+frio constante,ultimamente siento escalofrios leves a menudo,yodo,"merluza, lubina, salmon, leche, yogur, huevos",parafraseado
+frio constante,estos dias siento escalofrios leves a menudo y no se por que,yodo,"merluza, lubina, salmon, leche, yogur, huevos",parafraseado
+frio constante,siento escalofrios leves a menudo y no se por que,yodo,"merluza, lubina, salmon, leche, yogur, huevos",parafraseado
+dolor articular,me duelen las articulaciones,omega-3; vitamina d,"salmon, lubina, merluza, huevos, leche",original
+dolor articular,de un tiempo a esta parte me duelen las articulaciones,omega-3; vitamina d,"salmon, lubina, merluza, huevos, leche",parafraseado
+dolor articular,de un tiempo a esta parte me duelen las articulaciones y me pasa a menudo,omega-3; vitamina d,"salmon, lubina, merluza, huevos, leche",parafraseado
+dolor articular,por las mananas me duelen las articulaciones,omega-3; vitamina d,"salmon, lubina, merluza, huevos, leche",parafraseado
+dolor articular,siento rigidez al levantarme,omega-3; vitamina d,"salmon, lubina, merluza, huevos, leche",original
+dolor articular,ultimamente siento rigidez al levantarme,omega-3; vitamina d,"salmon, lubina, merluza, huevos, leche",parafraseado
+dolor articular,siento rigidez al levantarme y no se por que,omega-3; vitamina d,"salmon, lubina, merluza, huevos, leche",parafraseado
+dolor articular,estos dias siento rigidez al levantarme y no se por que,omega-3; vitamina d,"salmon, lubina, merluza, huevos, leche",parafraseado
+dolor articular,tengo dolor en rodillas y manos,omega-3; vitamina d,"salmon, lubina, merluza, huevos, leche",original
+dolor articular,estos dias tengo dolor en rodillas y manos,omega-3; vitamina d,"salmon, lubina, merluza, huevos, leche",parafraseado
+dolor articular,tengo dolor en rodillas y manos y no se por que,omega-3; vitamina d,"salmon, lubina, merluza, huevos, leche",parafraseado
+dolor articular,estos dias tengo dolor en rodillas y manos y no se por que,omega-3; vitamina d,"salmon, lubina, merluza, huevos, leche",parafraseado
+dolor articular,me crujen y duelen las articulaciones,omega-3; vitamina d,"salmon, lubina, merluza, huevos, leche",original
+dolor articular,por las mananas me crujen y duelen las articulaciones y no se por que,omega-3; vitamina d,"salmon, lubina, merluza, huevos, leche",parafraseado
+dolor articular,ultimamente me crujen y duelen las articulaciones y me preocupa,omega-3; vitamina d,"salmon, lubina, merluza, huevos, leche",parafraseado
+dolor articular,ultimamente me crujen y duelen las articulaciones,omega-3; vitamina d,"salmon, lubina, merluza, huevos, leche",parafraseado
+dolor articular,el dolor articular empeora con el frio,omega-3; vitamina d,"salmon, lubina, merluza, huevos, leche",original
+dolor articular,estos dias el dolor articular empeora con el frio y no se por que,omega-3; vitamina d,"salmon, lubina, merluza, huevos, leche",parafraseado
+dolor articular,desde hace semanas el dolor articular empeora con el frio,omega-3; vitamina d,"salmon, lubina, merluza, huevos, leche",parafraseado
+dolor articular,estos dias el dolor articular empeora con el frio,omega-3; vitamina d,"salmon, lubina, merluza, huevos, leche",parafraseado
+calambres menstruales,tengo colicos fuertes con la regla,magnesio; vitamina b6,"platano, yogur, carne pollo, aguacate",original
+calambres menstruales,desde hace semanas tengo colicos fuertes con la regla y cada vez mas frecuente,magnesio; vitamina b6,"platano, yogur, carne pollo, aguacate",parafraseado
+calambres menstruales,ultimamente tengo colicos fuertes con la regla,magnesio; vitamina b6,"platano, yogur, carne pollo, aguacate",parafraseado
+calambres menstruales,estos dias tengo colicos fuertes con la regla y cada vez mas frecuente,magnesio; vitamina b6,"platano, yogur, carne pollo, aguacate",parafraseado
+calambres menstruales,me dan calambres durante la menstruacion,magnesio; vitamina b6,"platano, yogur, carne pollo, aguacate",original
+calambres menstruales,estos dias me dan espasmos durante la menstruacion,magnesio; vitamina b6,"platano, yogur, carne pollo, aguacate",parafraseado
+calambres menstruales,por las mananas me dan tirones musculares durante la menstruacion y va a peor,magnesio; vitamina b6,"platano, yogur, carne pollo, aguacate",parafraseado
+calambres menstruales,por las mananas me dan espasmos durante la menstruacion y no se por que,magnesio; vitamina b6,"platano, yogur, carne pollo, aguacate",parafraseado
+calambres menstruales,siento dolor bajo vientre en esos dias,magnesio; vitamina b6,"platano, yogur, carne pollo, aguacate",original
+calambres menstruales,siento dolor bajo vientre en esos dias y no se por que,magnesio; vitamina b6,"platano, yogur, carne pollo, aguacate",parafraseado
+calambres menstruales,ultimamente siento dolor bajo vientre en esos dias,magnesio; vitamina b6,"platano, yogur, carne pollo, aguacate",parafraseado
+calambres menstruales,ultimamente siento dolor bajo vientre en esos dias y no se por que,magnesio; vitamina b6,"platano, yogur, carne pollo, aguacate",parafraseado
+calambres menstruales,la regla me deja doblada del dolor,magnesio; vitamina b6,"platano, yogur, carne pollo, aguacate",original
+calambres menstruales,desde hace semanas la regla me deja doblada del dolor y va a peor,magnesio; vitamina b6,"platano, yogur, carne pollo, aguacate",parafraseado
+calambres menstruales,desde hace semanas la regla me deja doblada del dolor,magnesio; vitamina b6,"platano, yogur, carne pollo, aguacate",parafraseado
+calambres menstruales,la regla me deja doblada del dolor y va a peor,magnesio; vitamina b6,"platano, yogur, carne pollo, aguacate",parafraseado
+calambres menstruales,tengo espasmos uterinos intensos,magnesio; vitamina b6,"platano, yogur, carne pollo, aguacate",original
+calambres menstruales,ultimamente tengo espasmos uterinos intensos,magnesio; vitamina b6,"platano, yogur, carne pollo, aguacate",parafraseado
+calambres menstruales,ultimamente tengo espasmos uterinos intensos y me preocupa,magnesio; vitamina b6,"platano, yogur, carne pollo, aguacate",parafraseado
+calambres menstruales,por las mananas tengo espasmos uterinos intensos y cada vez mas frecuente,magnesio; vitamina b6,"platano, yogur, carne pollo, aguacate",parafraseado
+piernas inquietas,siento necesidad de mover las piernas,hierro; magnesio,"carne vacuno, yogur, platano, patata",original
+piernas inquietas,de un tiempo a esta parte siento necesidad de mover las piernas,hierro; magnesio,"carne vacuno, yogur, platano, patata",parafraseado
+piernas inquietas,siento necesidad de mover las piernas y me preocupa,hierro; magnesio,"carne vacuno, yogur, platano, patata",parafraseado
+piernas inquietas,siento necesidad de mover las piernas y va a peor,hierro; magnesio,"carne vacuno, yogur, platano, patata",parafraseado
+piernas inquietas,por la noche no puedo dejar quietas las piernas,hierro; magnesio,"carne vacuno, yogur, platano, patata",original
+piernas inquietas,estos dias por la noche no puedo dejar quietas las piernas,hierro; magnesio,"carne vacuno, yogur, platano, patata",parafraseado
+piernas inquietas,por las mananas por la noche no puedo dejar quietas las piernas y me pasa a menudo,hierro; magnesio,"carne vacuno, yogur, platano, patata",parafraseado
+piernas inquietas,desde hace semanas por la noche no puedo dejar quietas las piernas y va a peor,hierro; magnesio,"carne vacuno, yogur, platano, patata",parafraseado
+piernas inquietas,tengo sensacion de intranquilidad en las piernas,hierro; magnesio,"carne vacuno, yogur, platano, patata",original
+piernas inquietas,desde hace semanas tengo sensacion de intranquilidad en las piernas y cada vez mas frecuente,hierro; magnesio,"carne vacuno, yogur, platano, patata",parafraseado
+piernas inquietas,tengo sensacion de intranquilidad en las piernas y no se por que,hierro; magnesio,"carne vacuno, yogur, platano, patata",parafraseado
+piernas inquietas,de un tiempo a esta parte tengo sensacion de intranquilidad en las piernas y me pasa a menudo,hierro; magnesio,"carne vacuno, yogur, platano, patata",parafraseado
+piernas inquietas,no consigo relajar las piernas al dormir,hierro; magnesio,"carne vacuno, yogur, platano, patata",original
+piernas inquietas,no consigo relajar las piernas al dormir y va a peor,hierro; magnesio,"carne vacuno, yogur, platano, patata",parafraseado
+piernas inquietas,no consigo relajar las piernas al dormir y me preocupa,hierro; magnesio,"carne vacuno, yogur, platano, patata",parafraseado
+piernas inquietas,por las mananas no consigo relajar las piernas al dormir y cada vez mas frecuente,hierro; magnesio,"carne vacuno, yogur, platano, patata",parafraseado
+piernas inquietas,tengo impulsos de mover las piernas constantemente,hierro; magnesio,"carne vacuno, yogur, platano, patata",original
+piernas inquietas,ultimamente tengo impulsos de mover las piernas constantemente y me preocupa,hierro; magnesio,"carne vacuno, yogur, platano, patata",parafraseado
+piernas inquietas,por las mananas tengo impulsos de mover las piernas constantemente,hierro; magnesio,"carne vacuno, yogur, platano, patata",parafraseado
+piernas inquietas,por las mananas tengo impulsos de mover las piernas constantemente y me pasa a menudo,hierro; magnesio,"carne vacuno, yogur, platano, patata",parafraseado
+llagas en la boca,me salen aftas en la boca,folato; vitamina b12; hierro,"lechuga/endivia, aguacate, huevos, carne vacuno, brocoli",original
+llagas en la boca,estos dias me salen aftas en la boca y me pasa a menudo,folato; vitamina b12; hierro,"lechuga/endivia, aguacate, huevos, carne vacuno, brocoli",parafraseado
+llagas en la boca,ultimamente me salen aftas en la boca,folato; vitamina b12; hierro,"lechuga/endivia, aguacate, huevos, carne vacuno, brocoli",parafraseado
+llagas en la boca,de un tiempo a esta parte me salen aftas en la boca y cada vez mas frecuente,folato; vitamina b12; hierro,"lechuga/endivia, aguacate, huevos, carne vacuno, brocoli",parafraseado
+llagas en la boca,tengo ulceras orales dolorosas,folato; vitamina b12; hierro,"lechuga/endivia, aguacate, huevos, carne vacuno, brocoli",original
+llagas en la boca,tengo ulceras orales dolorosas y me preocupa,folato; vitamina b12; hierro,"lechuga/endivia, aguacate, huevos, carne vacuno, brocoli",parafraseado
+llagas en la boca,de un tiempo a esta parte tengo ulceras orales dolorosas y me preocupa,folato; vitamina b12; hierro,"lechuga/endivia, aguacate, huevos, carne vacuno, brocoli",parafraseado
+llagas en la boca,desde hace semanas tengo ulceras orales dolorosas y va a peor,folato; vitamina b12; hierro,"lechuga/endivia, aguacate, huevos, carne vacuno, brocoli",parafraseado
+llagas en la boca,se me forman llagas en la cara interna,folato; vitamina b12; hierro,"lechuga/endivia, aguacate, huevos, carne vacuno, brocoli",original
+llagas en la boca,se me forman llagas en la cara interna y va a peor,folato; vitamina b12; hierro,"lechuga/endivia, aguacate, huevos, carne vacuno, brocoli",parafraseado
+llagas en la boca,desde hace semanas se me forman llagas en la cara interna y va a peor,folato; vitamina b12; hierro,"lechuga/endivia, aguacate, huevos, carne vacuno, brocoli",parafraseado
+llagas en la boca,estos dias se me forman llagas en la cara interna,folato; vitamina b12; hierro,"lechuga/endivia, aguacate, huevos, carne vacuno, brocoli",parafraseado
+llagas en la boca,me duele al comer por las llagas,folato; vitamina b12; hierro,"lechuga/endivia, aguacate, huevos, carne vacuno, brocoli",original
+llagas en la boca,por las mananas me duele al comer por las llagas y no se por que,folato; vitamina b12; hierro,"lechuga/endivia, aguacate, huevos, carne vacuno, brocoli",parafraseado
+llagas en la boca,ultimamente me duele al comer por las llagas,folato; vitamina b12; hierro,"lechuga/endivia, aguacate, huevos, carne vacuno, brocoli",parafraseado
+llagas en la boca,de un tiempo a esta parte me duele al comer por las llagas y me pasa a menudo,folato; vitamina b12; hierro,"lechuga/endivia, aguacate, huevos, carne vacuno, brocoli",parafraseado
+llagas en la boca,aparecen pequenas heridas en la boca,folato; vitamina b12; hierro,"lechuga/endivia, aguacate, huevos, carne vacuno, brocoli",original
+llagas en la boca,desde hace semanas aparecen pequenas heridas en la boca,folato; vitamina b12; hierro,"lechuga/endivia, aguacate, huevos, carne vacuno, brocoli",parafraseado
+llagas en la boca,aparecen pequenas heridas en la boca y no se por que,folato; vitamina b12; hierro,"lechuga/endivia, aguacate, huevos, carne vacuno, brocoli",parafraseado
+llagas en la boca,ultimamente aparecen pequenas heridas en la boca y no se por que,folato; vitamina b12; hierro,"lechuga/endivia, aguacate, huevos, carne vacuno, brocoli",parafraseado
+ojos secos,siento los ojos muy secos,vitamina a; omega-3,"zanahoria, salmon, huevos, mantequilla",original
+ojos secos,desde hace semanas siento los ojos muy secos y va a peor,vitamina a; omega-3,"zanahoria, salmon, huevos, mantequilla",parafraseado
+ojos secos,por las mananas siento los ojos muy secos y va a peor,vitamina a; omega-3,"zanahoria, salmon, huevos, mantequilla",parafraseado
+ojos secos,siento los ojos muy secos y cada vez mas frecuente,vitamina a; omega-3,"zanahoria, salmon, huevos, mantequilla",parafraseado
+ojos secos,tengo picor y sequedad ocular,vitamina a; omega-3,"zanahoria, salmon, huevos, mantequilla",original
+ojos secos,desde hace semanas tengo picor y sequedad ocular,vitamina a; omega-3,"zanahoria, salmon, huevos, mantequilla",parafraseado
+ojos secos,de un tiempo a esta parte tengo picor y sequedad ocular,vitamina a; omega-3,"zanahoria, salmon, huevos, mantequilla",parafraseado
+ojos secos,estos dias tengo picor y sequedad ocular y cada vez mas frecuente,vitamina a; omega-3,"zanahoria, salmon, huevos, mantequilla",parafraseado
+ojos secos,me molestan las lentes por sequedad,vitamina a; omega-3,"zanahoria, salmon, huevos, mantequilla",original
+ojos secos,me molestan las lentes por sequedad y cada vez mas frecuente,vitamina a; omega-3,"zanahoria, salmon, huevos, mantequilla",parafraseado
+ojos secos,de un tiempo a esta parte me molestan las lentes por sequedad,vitamina a; omega-3,"zanahoria, salmon, huevos, mantequilla",parafraseado
+ojos secos,desde hace semanas me molestan las lentes por sequedad,vitamina a; omega-3,"zanahoria, salmon, huevos, mantequilla",parafraseado
+ojos secos,necesito gotas porque tengo ojos secos,vitamina a; omega-3,"zanahoria, salmon, huevos, mantequilla",original
+ojos secos,ultimamente necesito gotas porque tengo ojos secos y cada vez mas frecuente,vitamina a; omega-3,"zanahoria, salmon, huevos, mantequilla",parafraseado
+ojos secos,por las mananas necesito gotas porque tengo ojos secos,vitamina a; omega-3,"zanahoria, salmon, huevos, mantequilla",parafraseado
+ojos secos,desde hace semanas necesito gotas porque tengo ojos secos y me preocupa,vitamina a; omega-3,"zanahoria, salmon, huevos, mantequilla",parafraseado
+ojos secos,me arden los ojos por falta de lagrima,vitamina a; omega-3,"zanahoria, salmon, huevos, mantequilla",original
+ojos secos,de un tiempo a esta parte me arden los ojos por falta de lagrima y me preocupa,vitamina a; omega-3,"zanahoria, salmon, huevos, mantequilla",parafraseado
+ojos secos,me arden los ojos por falta de lagrima y no se por que,vitamina a; omega-3,"zanahoria, salmon, huevos, mantequilla",parafraseado
+ojos secos,de un tiempo a esta parte me arden los ojos por falta de lagrima y cada vez mas frecuente,vitamina a; omega-3,"zanahoria, salmon, huevos, mantequilla",parafraseado
+sangrado facil,me sangra la nariz con facilidad,vitamina k,"lechuga/endivia, brocoli, coliflor, pepino",original
+sangrado facil,ultimamente me sangra la nariz con facilidad,vitamina k,"lechuga/endivia, brocoli, coliflor, pepino",parafraseado
+sangrado facil,de un tiempo a esta parte me sangra la nariz con facilidad,vitamina k,"lechuga/endivia, brocoli, coliflor, pepino",parafraseado
+sangrado facil,de un tiempo a esta parte me sangra la nariz con facilidad y no se por que,vitamina k,"lechuga/endivia, brocoli, coliflor, pepino",parafraseado
+sangrado facil,cualquier corte sangra mucho,vitamina k,"lechuga/endivia, brocoli, coliflor, pepino",original
+sangrado facil,ultimamente cualquier corte sangra mucho y no se por que,vitamina k,"lechuga/endivia, brocoli, coliflor, pepino",parafraseado
+sangrado facil,de un tiempo a esta parte cualquier corte sangra mucho y va a peor,vitamina k,"lechuga/endivia, brocoli, coliflor, pepino",parafraseado
+sangrado facil,ultimamente cualquier corte sangra mucho y cada vez mas frecuente,vitamina k,"lechuga/endivia, brocoli, coliflor, pepino",parafraseado
+sangrado facil,tardo en dejar de sangrar cuando me corto,vitamina k,"lechuga/endivia, brocoli, coliflor, pepino",original
+sangrado facil,por las mananas tardo en dejar de sangrar cuando me corto y cada vez mas frecuente,vitamina k,"lechuga/endivia, brocoli, coliflor, pepino",parafraseado
+sangrado facil,tardo en dejar de sangrar cuando me corto y no se por que,vitamina k,"lechuga/endivia, brocoli, coliflor, pepino",parafraseado
+sangrado facil,estos dias tardo en dejar de sangrar cuando me corto y me pasa a menudo,vitamina k,"lechuga/endivia, brocoli, coliflor, pepino",parafraseado
+sangrado facil,los morados me sangran si se abren,vitamina k,"lechuga/endivia, brocoli, coliflor, pepino",original
+sangrado facil,de un tiempo a esta parte los morados me sangran si se abren y va a peor,vitamina k,"lechuga/endivia, brocoli, coliflor, pepino",parafraseado
+sangrado facil,de un tiempo a esta parte los morados me sangran si se abren y me pasa a menudo,vitamina k,"lechuga/endivia, brocoli, coliflor, pepino",parafraseado
+sangrado facil,estos dias los morados me sangran si se abren,vitamina k,"lechuga/endivia, brocoli, coliflor, pepino",parafraseado
+sangrado facil,me cuesta coagular cuando me hiero,vitamina k,"lechuga/endivia, brocoli, coliflor, pepino",original
+sangrado facil,por las mananas me cuesta coagular cuando me hiero y va a peor,vitamina k,"lechuga/endivia, brocoli, coliflor, pepino",parafraseado
+sangrado facil,por las mananas me cuesta coagular cuando me hiero,vitamina k,"lechuga/endivia, brocoli, coliflor, pepino",parafraseado
+sangrado facil,desde hace semanas me cuesta coagular cuando me hiero,vitamina k,"lechuga/endivia, brocoli, coliflor, pepino",parafraseado
+cansancio tras comer,me entra sueno despues de comer,hierro; vitamina b12; folato,"carne vacuno, huevos, carne pavo, lechuga/endivia",original
+cansancio tras comer,por las mananas me entra sueno despues de comer y me preocupa,hierro; vitamina b12; folato,"carne vacuno, huevos, carne pavo, lechuga/endivia",parafraseado
+cansancio tras comer,me entra sueno despues de comer y me pasa a menudo,hierro; vitamina b12; folato,"carne vacuno, huevos, carne pavo, lechuga/endivia",parafraseado
+cansancio tras comer,desde hace semanas me entra sueno despues de comer y no se por que,hierro; vitamina b12; folato,"carne vacuno, huevos, carne pavo, lechuga/endivia",parafraseado
+cansancio tras comer,despues de almorzar me quedo sin energia,hierro; vitamina b12; folato,"carne vacuno, huevos, carne pavo, lechuga/endivia",original
+cansancio tras comer,despues de almorzar me quedo con energia baja,hierro; vitamina b12; folato,"carne vacuno, huevos, carne pavo, lechuga/endivia",parafraseado
+cansancio tras comer,estos dias despues de almorzar me quedo muy bajo de energia,hierro; vitamina b12; folato,"carne vacuno, huevos, carne pavo, lechuga/endivia",parafraseado
+cansancio tras comer,desde hace semanas despues de almorzar me quedo muy bajo de energia,hierro; vitamina b12; folato,"carne vacuno, huevos, carne pavo, lechuga/endivia",parafraseado
+cansancio tras comer,me da bajon fuerte tras las comidas,hierro; vitamina b12; folato,"carne vacuno, huevos, carne pavo, lechuga/endivia",original
+cansancio tras comer,ultimamente me da bajon fuerte tras las comidas y no se por que,hierro; vitamina b12; folato,"carne vacuno, huevos, carne pavo, lechuga/endivia",parafraseado
+cansancio tras comer,por las mananas me da bajon fuerte tras las comidas,hierro; vitamina b12; folato,"carne vacuno, huevos, carne pavo, lechuga/endivia",parafraseado
+cansancio tras comer,estos dias me da bajon fuerte tras las comidas,hierro; vitamina b12; folato,"carne vacuno, huevos, carne pavo, lechuga/endivia",parafraseado
+cansancio tras comer,necesito dormir la siesta cada vez que como,hierro; vitamina b12; folato,"carne vacuno, huevos, carne pavo, lechuga/endivia",original
+cansancio tras comer,desde hace semanas necesito dormir la siesta cada vez que como,hierro; vitamina b12; folato,"carne vacuno, huevos, carne pavo, lechuga/endivia",parafraseado
+cansancio tras comer,desde hace semanas necesito dormir la siesta cada vez que como y cada vez mas frecuente,hierro; vitamina b12; folato,"carne vacuno, huevos, carne pavo, lechuga/endivia",parafraseado
+cansancio tras comer,necesito dormir la siesta cada vez que como y me preocupa,hierro; vitamina b12; folato,"carne vacuno, huevos, carne pavo, lechuga/endivia",parafraseado
+cansancio tras comer,me siento pesado y cansado despues de comer,hierro; vitamina b12; folato,"carne vacuno, huevos, carne pavo, lechuga/endivia",original
+cansancio tras comer,estos dias me siento pesado y muy bajo de energia despues de comer,hierro; vitamina b12; folato,"carne vacuno, huevos, carne pavo, lechuga/endivia",parafraseado
+cansancio tras comer,ultimamente me noto pesado y cansado despues de comer,hierro; vitamina b12; folato,"carne vacuno, huevos, carne pavo, lechuga/endivia",parafraseado
+cansancio tras comer,estos dias me noto pesado y cansado despues de comer,hierro; vitamina b12; folato,"carne vacuno, huevos, carne pavo, lechuga/endivia",parafraseado
+calambres nocturnos,me despiertan calambres por la noche,potasio; magnesio; calcio,"platano, patata, leche, yogur, queso",original
+calambres nocturnos,ultimamente me despiertan espasmos por la noche,potasio; magnesio; calcio,"platano, patata, leche, yogur, queso",parafraseado
+calambres nocturnos,me despiertan tirones musculares por la noche y no se por que,potasio; magnesio; calcio,"platano, patata, leche, yogur, queso",parafraseado
+calambres nocturnos,estos dias me despiertan espasmos por la noche y me preocupa,potasio; magnesio; calcio,"platano, patata, leche, yogur, queso",parafraseado
+calambres nocturnos,se me encogen los gemelos de madrugada,potasio; magnesio; calcio,"platano, patata, leche, yogur, queso",original
+calambres nocturnos,de un tiempo a esta parte se me encogen los gemelos de madrugada,potasio; magnesio; calcio,"platano, patata, leche, yogur, queso",parafraseado
+calambres nocturnos,desde hace semanas se me encogen los gemelos de madrugada y va a peor,potasio; magnesio; calcio,"platano, patata, leche, yogur, queso",parafraseado
+calambres nocturnos,desde hace semanas se me encogen los gemelos de madrugada y me preocupa,potasio; magnesio; calcio,"platano, patata, leche, yogur, queso",parafraseado
+calambres nocturnos,tengo espasmos nocturnos en las piernas,potasio; magnesio; calcio,"platano, patata, leche, yogur, queso",original
+calambres nocturnos,por las mananas tengo espasmos nocturnos en las piernas y no se por que,potasio; magnesio; calcio,"platano, patata, leche, yogur, queso",parafraseado
+calambres nocturnos,por las mananas tengo espasmos nocturnos en las piernas,potasio; magnesio; calcio,"platano, patata, leche, yogur, queso",parafraseado
+calambres nocturnos,ultimamente tengo espasmos nocturnos en las piernas y me preocupa,potasio; magnesio; calcio,"platano, patata, leche, yogur, queso",parafraseado
+calambres nocturnos,me dan tirones al dormir,potasio; magnesio; calcio,"platano, patata, leche, yogur, queso",original
+calambres nocturnos,estos dias me dan tirones al dormir y me preocupa,potasio; magnesio; calcio,"platano, patata, leche, yogur, queso",parafraseado
+calambres nocturnos,de un tiempo a esta parte me dan tirones al dormir y no se por que,potasio; magnesio; calcio,"platano, patata, leche, yogur, queso",parafraseado
+calambres nocturnos,desde hace semanas me dan tirones al dormir y me preocupa,potasio; magnesio; calcio,"platano, patata, leche, yogur, queso",parafraseado
+calambres nocturnos,siento pinchazos musculares por la noche,potasio; magnesio; calcio,"platano, patata, leche, yogur, queso",original
+calambres nocturnos,siento pinchazos musculares por la noche y me preocupa,potasio; magnesio; calcio,"platano, patata, leche, yogur, queso",parafraseado
+calambres nocturnos,de un tiempo a esta parte siento pinchazos musculares por la noche y cada vez mas frecuente,potasio; magnesio; calcio,"platano, patata, leche, yogur, queso",parafraseado
+calambres nocturnos,siento pinchazos musculares por la noche y cada vez mas frecuente,potasio; magnesio; calcio,"platano, patata, leche, yogur, queso",parafraseado
+estrenimiento,voy al bano con poca frecuencia,fibra dietetica; magnesio,"manzana, lechuga/endivia, pepino, calabacines, brocoli, yogur, sandia",original
+estrenimiento,de un tiempo a esta parte voy al bano con poca frecuencia,fibra dietetica; magnesio,"manzana, lechuga/endivia, pepino, calabacines, brocoli, yogur, sandia",parafraseado
+estrenimiento,estos dias voy al bano con poca frecuencia,fibra dietetica; magnesio,"manzana, lechuga/endivia, pepino, calabacines, brocoli, yogur, sandia",parafraseado
+estrenimiento,por las mananas voy al bano con poca frecuencia,fibra dietetica; magnesio,"manzana, lechuga/endivia, pepino, calabacines, brocoli, yogur, sandia",parafraseado
+estrenimiento,tengo heces duras y secas,fibra dietetica; magnesio,"manzana, lechuga/endivia, pepino, calabacines, brocoli, yogur, sandia",original
+estrenimiento,tengo heces duras y secas y me pasa a menudo,fibra dietetica; magnesio,"manzana, lechuga/endivia, pepino, calabacines, brocoli, yogur, sandia",parafraseado
+estrenimiento,ultimamente tengo heces duras y secas,fibra dietetica; magnesio,"manzana, lechuga/endivia, pepino, calabacines, brocoli, yogur, sandia",parafraseado
+estrenimiento,tengo heces duras y secas y me preocupa,fibra dietetica; magnesio,"manzana, lechuga/endivia, pepino, calabacines, brocoli, yogur, sandia",parafraseado
+estrenimiento,me cuesta evacuar,fibra dietetica; magnesio,"manzana, lechuga/endivia, pepino, calabacines, brocoli, yogur, sandia",original
+estrenimiento,me cuesta evacuar y no se por que,fibra dietetica; magnesio,"manzana, lechuga/endivia, pepino, calabacines, brocoli, yogur, sandia",parafraseado
+estrenimiento,estos dias me cuesta evacuar,fibra dietetica; magnesio,"manzana, lechuga/endivia, pepino, calabacines, brocoli, yogur, sandia",parafraseado
+estrenimiento,por las mananas me cuesta evacuar y no se por que,fibra dietetica; magnesio,"manzana, lechuga/endivia, pepino, calabacines, brocoli, yogur, sandia",parafraseado
+estrenimiento,paso varios dias sin ir al bano,fibra dietetica; magnesio,"manzana, lechuga/endivia, pepino, calabacines, brocoli, yogur, sandia",original
+estrenimiento,por las mananas paso varios dias sin ir al bano y me pasa a menudo,fibra dietetica; magnesio,"manzana, lechuga/endivia, pepino, calabacines, brocoli, yogur, sandia",parafraseado
+estrenimiento,estos dias paso varios dias sin ir al bano y me preocupa,fibra dietetica; magnesio,"manzana, lechuga/endivia, pepino, calabacines, brocoli, yogur, sandia",parafraseado
+estrenimiento,desde hace semanas paso varios dias sin ir al bano,fibra dietetica; magnesio,"manzana, lechuga/endivia, pepino, calabacines, brocoli, yogur, sandia",parafraseado
+estrenimiento,siento pesadez por no poder evacuar,fibra dietetica; magnesio,"manzana, lechuga/endivia, pepino, calabacines, brocoli, yogur, sandia",original
+estrenimiento,estos dias siento pesadez por no poder evacuar y cada vez mas frecuente,fibra dietetica; magnesio,"manzana, lechuga/endivia, pepino, calabacines, brocoli, yogur, sandia",parafraseado
+estrenimiento,ultimamente siento pesadez por no poder evacuar y me pasa a menudo,fibra dietetica; magnesio,"manzana, lechuga/endivia, pepino, calabacines, brocoli, yogur, sandia",parafraseado
+estrenimiento,por las mananas siento pesadez por no poder evacuar y me pasa a menudo,fibra dietetica; magnesio,"manzana, lechuga/endivia, pepino, calabacines, brocoli, yogur, sandia",parafraseado
+labios agrietados,se me agrietan los labios a menudo,riboflavina (b2); niacina (b3); vitamina b6,"leche, yogur, carne vacuno, salmon, huevos",original
+labios agrietados,ultimamente se me agrietan los labios a menudo y cada vez mas frecuente,riboflavina (b2); niacina (b3); vitamina b6,"leche, yogur, carne vacuno, salmon, huevos",parafraseado
+labios agrietados,ultimamente se me agrietan los labios a menudo y va a peor,riboflavina (b2); niacina (b3); vitamina b6,"leche, yogur, carne vacuno, salmon, huevos",parafraseado
+labios agrietados,de un tiempo a esta parte se me agrietan los labios a menudo y va a peor,riboflavina (b2); niacina (b3); vitamina b6,"leche, yogur, carne vacuno, salmon, huevos",parafraseado
+labios agrietados,tengo labios secos y con pellejitos,riboflavina (b2); niacina (b3); vitamina b6,"leche, yogur, carne vacuno, salmon, huevos",original
+labios agrietados,tengo labios secos y con pellejitos y me pasa a menudo,riboflavina (b2); niacina (b3); vitamina b6,"leche, yogur, carne vacuno, salmon, huevos",parafraseado
+labios agrietados,de un tiempo a esta parte tengo labios secos y con pellejitos y me preocupa,riboflavina (b2); niacina (b3); vitamina b6,"leche, yogur, carne vacuno, salmon, huevos",parafraseado
+labios agrietados,desde hace semanas tengo labios secos y con pellejitos y no se por que,riboflavina (b2); niacina (b3); vitamina b6,"leche, yogur, carne vacuno, salmon, huevos",parafraseado
+labios agrietados,mis labios se parten con el frio,riboflavina (b2); niacina (b3); vitamina b6,"leche, yogur, carne vacuno, salmon, huevos",original
+labios agrietados,mis labios se parten con el frio y va a peor,riboflavina (b2); niacina (b3); vitamina b6,"leche, yogur, carne vacuno, salmon, huevos",parafraseado
+labios agrietados,ultimamente mis labios se parten con el frio,riboflavina (b2); niacina (b3); vitamina b6,"leche, yogur, carne vacuno, salmon, huevos",parafraseado
+labios agrietados,mis labios se parten con el frio y no se por que,riboflavina (b2); niacina (b3); vitamina b6,"leche, yogur, carne vacuno, salmon, huevos",parafraseado
+labios agrietados,me arden los labios por sequedad,riboflavina (b2); niacina (b3); vitamina b6,"leche, yogur, carne vacuno, salmon, huevos",original
+labios agrietados,por las mananas me arden los labios por sequedad y me pasa a menudo,riboflavina (b2); niacina (b3); vitamina b6,"leche, yogur, carne vacuno, salmon, huevos",parafraseado
+labios agrietados,por las mananas me arden los labios por sequedad,riboflavina (b2); niacina (b3); vitamina b6,"leche, yogur, carne vacuno, salmon, huevos",parafraseado
+labios agrietados,desde hace semanas me arden los labios por sequedad y va a peor,riboflavina (b2); niacina (b3); vitamina b6,"leche, yogur, carne vacuno, salmon, huevos",parafraseado
+labios agrietados,necesito balsamo todo el tiempo,riboflavina (b2); niacina (b3); vitamina b6,"leche, yogur, carne vacuno, salmon, huevos",original
+labios agrietados,necesito balsamo todo el tiempo y me pasa a menudo,riboflavina (b2); niacina (b3); vitamina b6,"leche, yogur, carne vacuno, salmon, huevos",parafraseado
+labios agrietados,de un tiempo a esta parte necesito balsamo todo el tiempo,riboflavina (b2); niacina (b3); vitamina b6,"leche, yogur, carne vacuno, salmon, huevos",parafraseado
+labios agrietados,ultimamente necesito balsamo todo el tiempo,riboflavina (b2); niacina (b3); vitamina b6,"leche, yogur, carne vacuno, salmon, huevos",parafraseado
+debilidad general,me siento debil en general,proteina; hierro; vitamina b12,"carne vacuno, carne pollo, carne cerdo, carne pavo, salchichas, huevos, yogur, queso",original
+debilidad general,me percibo debil en general y cada vez mas frecuente,proteina; hierro; vitamina b12,"carne vacuno, carne pollo, carne cerdo, carne pavo, salchichas, huevos, yogur, queso",parafraseado
+debilidad general,estos dias estoy debil en general y no se por que,proteina; hierro; vitamina b12,"carne vacuno, carne pollo, carne cerdo, carne pavo, salchichas, huevos, yogur, queso",parafraseado
+debilidad general,me percibo debil en general,proteina; hierro; vitamina b12,"carne vacuno, carne pollo, carne cerdo, carne pavo, salchichas, huevos, yogur, queso",parafraseado
+debilidad general,me falta fuerza para las tareas diarias,proteina; hierro; vitamina b12,"carne vacuno, carne pollo, carne cerdo, carne pavo, salchichas, huevos, yogur, queso",original
+debilidad general,ultimamente me falta fuerza para las tareas diarias y me pasa a menudo,proteina; hierro; vitamina b12,"carne vacuno, carne pollo, carne cerdo, carne pavo, salchichas, huevos, yogur, queso",parafraseado
+debilidad general,estos dias me falta fuerza para las tareas diarias y me pasa a menudo,proteina; hierro; vitamina b12,"carne vacuno, carne pollo, carne cerdo, carne pavo, salchichas, huevos, yogur, queso",parafraseado
+debilidad general,de un tiempo a esta parte me falta fuerza para las tareas diarias,proteina; hierro; vitamina b12,"carne vacuno, carne pollo, carne cerdo, carne pavo, salchichas, huevos, yogur, queso",parafraseado
+debilidad general,tengo agotamiento sin razon clara,proteina; hierro; vitamina b12,"carne vacuno, carne pollo, carne cerdo, carne pavo, salchichas, huevos, yogur, queso",original
+debilidad general,por las mananas tengo agotamiento sin razon clara y no se por que,proteina; hierro; vitamina b12,"carne vacuno, carne pollo, carne cerdo, carne pavo, salchichas, huevos, yogur, queso",parafraseado
+debilidad general,desde hace semanas tengo agotamiento sin razon clara y me preocupa,proteina; hierro; vitamina b12,"carne vacuno, carne pollo, carne cerdo, carne pavo, salchichas, huevos, yogur, queso",parafraseado
+debilidad general,por las mananas tengo agotamiento sin razon clara y cada vez mas frecuente,proteina; hierro; vitamina b12,"carne vacuno, carne pollo, carne cerdo, carne pavo, salchichas, huevos, yogur, queso",parafraseado
+debilidad general,me canso subiendo un par de pisos,proteina; hierro; vitamina b12,"carne vacuno, carne pollo, carne cerdo, carne pavo, salchichas, huevos, yogur, queso",original
+debilidad general,de un tiempo a esta parte me canso subiendo un par de pisos,proteina; hierro; vitamina b12,"carne vacuno, carne pollo, carne cerdo, carne pavo, salchichas, huevos, yogur, queso",parafraseado
+debilidad general,estos dias me canso subiendo un par de pisos y me preocupa,proteina; hierro; vitamina b12,"carne vacuno, carne pollo, carne cerdo, carne pavo, salchichas, huevos, yogur, queso",parafraseado
+debilidad general,de un tiempo a esta parte me canso subiendo un par de pisos y no se por que,proteina; hierro; vitamina b12,"carne vacuno, carne pollo, carne cerdo, carne pavo, salchichas, huevos, yogur, queso",parafraseado
+debilidad general,todo me cuesta mas de lo normal,proteina; hierro; vitamina b12,"carne vacuno, carne pollo, carne cerdo, carne pavo, salchichas, huevos, yogur, queso",original
+debilidad general,por las mananas todo me cuesta mas de lo normal y no se por que,proteina; hierro; vitamina b12,"carne vacuno, carne pollo, carne cerdo, carne pavo, salchichas, huevos, yogur, queso",parafraseado
+debilidad general,desde hace semanas todo me cuesta mas de lo normal y me preocupa,proteina; hierro; vitamina b12,"carne vacuno, carne pollo, carne cerdo, carne pavo, salchichas, huevos, yogur, queso",parafraseado
+debilidad general,de un tiempo a esta parte todo me cuesta mas de lo normal,proteina; hierro; vitamina b12,"carne vacuno, carne pollo, carne cerdo, carne pavo, salchichas, huevos, yogur, queso",parafraseado
+deficit de vitamina d sospecha,paso poco tiempo al sol y tengo debilidad,vitamina d,"salmon, lubina, merluza, leche, yogur, huevos, champinones",original
+deficit de vitamina d sospecha,de un tiempo a esta parte paso poco tiempo al sol y tengo debilidad,vitamina d,"salmon, lubina, merluza, leche, yogur, huevos, champinones",parafraseado
+deficit de vitamina d sospecha,desde hace semanas paso poco tiempo al sol y tengo debilidad,vitamina d,"salmon, lubina, merluza, leche, yogur, huevos, champinones",parafraseado
+deficit de vitamina d sospecha,de un tiempo a esta parte paso poco tiempo al sol y tengo debilidad y va a peor,vitamina d,"salmon, lubina, merluza, leche, yogur, huevos, champinones",parafraseado
+deficit de vitamina d sospecha,casi no me da el sol y me duelen los musculos,vitamina d,"salmon, lubina, merluza, leche, yogur, huevos, champinones",original
+deficit de vitamina d sospecha,por las mananas casi no me da el sol y me duelen los musculos,vitamina d,"salmon, lubina, merluza, leche, yogur, huevos, champinones",parafraseado
+deficit de vitamina d sospecha,por las mananas casi no me da el sol y me duelen los musculos y me pasa a menudo,vitamina d,"salmon, lubina, merluza, leche, yogur, huevos, champinones",parafraseado
+deficit de vitamina d sospecha,ultimamente casi no me da el sol y me duelen los musculos,vitamina d,"salmon, lubina, merluza, leche, yogur, huevos, champinones",parafraseado
+deficit de vitamina d sospecha,me siento rigido y con dolor oseo,vitamina d,"salmon, lubina, merluza, leche, yogur, huevos, champinones",original
+deficit de vitamina d sospecha,de un tiempo a esta parte me percibo rigido y con dolor oseo y cada vez mas frecuente,vitamina d,"salmon, lubina, merluza, leche, yogur, huevos, champinones",parafraseado
+deficit de vitamina d sospecha,desde hace semanas me noto rigido y con dolor oseo y me preocupa,vitamina d,"salmon, lubina, merluza, leche, yogur, huevos, champinones",parafraseado
+deficit de vitamina d sospecha,estos dias me percibo rigido y con dolor oseo y me pasa a menudo,vitamina d,"salmon, lubina, merluza, leche, yogur, huevos, champinones",parafraseado
+deficit de vitamina d sospecha,tengo poca exposicion solar y cansancio,vitamina d,"salmon, lubina, merluza, leche, yogur, huevos, champinones",original
+deficit de vitamina d sospecha,estos dias tengo poca exposicion solar y cansancio y me preocupa,vitamina d,"salmon, lubina, merluza, leche, yogur, huevos, champinones",parafraseado
+deficit de vitamina d sospecha,tengo poca exposicion solar y cansancio y va a peor,vitamina d,"salmon, lubina, merluza, leche, yogur, huevos, champinones",parafraseado
+deficit de vitamina d sospecha,estos dias tengo poca exposicion solar y cansancio,vitamina d,"salmon, lubina, merluza, leche, yogur, huevos, champinones",parafraseado
+deficit de vitamina d sospecha,me noto flojo y sin animo en invierno,vitamina d,"salmon, lubina, merluza, leche, yogur, huevos, champinones",original
+deficit de vitamina d sospecha,desde hace semanas me noto flojo y sin animo en invierno,vitamina d,"salmon, lubina, merluza, leche, yogur, huevos, champinones",parafraseado
+deficit de vitamina d sospecha,me noto flojo y sin animo en invierno y me preocupa,vitamina d,"salmon, lubina, merluza, leche, yogur, huevos, champinones",parafraseado
+deficit de vitamina d sospecha,ultimamente me noto flojo y sin animo en invierno,vitamina d,"salmon, lubina, merluza, leche, yogur, huevos, champinones",parafraseado
+retencion de liquidos leve,se me hinchan un poco los tobillos al final del dia,potasio,"platano, patata, aguacate, yogur",original
+retencion de liquidos leve,por las mananas se me hinchan un poco los tobillos al final del dia,potasio,"platano, patata, aguacate, yogur",parafraseado
+retencion de liquidos leve,se me hinchan un poco los tobillos al final del dia y cada vez mas frecuente,potasio,"platano, patata, aguacate, yogur",parafraseado
+retencion de liquidos leve,estos dias se me hinchan un poco los tobillos al final del dia,potasio,"platano, patata, aguacate, yogur",parafraseado
+retencion de liquidos leve,me siento hinchado pero solo de forma leve,potasio,"platano, patata, aguacate, yogur",original
+retencion de liquidos leve,me percibo hinchado pero solo de forma leve y va a peor,potasio,"platano, patata, aguacate, yogur",parafraseado
+retencion de liquidos leve,estoy hinchado pero solo de forma leve y me pasa a menudo,potasio,"platano, patata, aguacate, yogur",parafraseado
+retencion de liquidos leve,estoy hinchado pero solo de forma leve y va a peor,potasio,"platano, patata, aguacate, yogur",parafraseado
+retencion de liquidos leve,me aprietan los anillos por retencion leve,potasio,"platano, patata, aguacate, yogur",original
+retencion de liquidos leve,me aprietan los anillos por retencion leve y va a peor,potasio,"platano, patata, aguacate, yogur",parafraseado
+retencion de liquidos leve,estos dias me aprietan los anillos por retencion leve y me preocupa,potasio,"platano, patata, aguacate, yogur",parafraseado
+retencion de liquidos leve,me aprietan los anillos por retencion leve y me pasa a menudo,potasio,"platano, patata, aguacate, yogur",parafraseado
+retencion de liquidos leve,noto hinchazon en piernas tras estar de pie,potasio,"platano, patata, aguacate, yogur",original
+retencion de liquidos leve,desde hace semanas noto hinchazon en piernas tras estar de pie,potasio,"platano, patata, aguacate, yogur",parafraseado
+retencion de liquidos leve,noto hinchazon en piernas tras estar de pie y me preocupa,potasio,"platano, patata, aguacate, yogur",parafraseado
+retencion de liquidos leve,ultimamente noto hinchazon en piernas tras estar de pie,potasio,"platano, patata, aguacate, yogur",parafraseado
+retencion de liquidos leve,retengo liquidos ligeramente en los pies,potasio,"platano, patata, aguacate, yogur",original
+retencion de liquidos leve,retengo liquidos ligeramente en los pies y va a peor,potasio,"platano, patata, aguacate, yogur",parafraseado
+retencion de liquidos leve,ultimamente retengo liquidos ligeramente en los pies y me pasa a menudo,potasio,"platano, patata, aguacate, yogur",parafraseado
+retencion de liquidos leve,estos dias retengo liquidos ligeramente en los pies y no se por que,potasio,"platano, patata, aguacate, yogur",parafraseado
+malestar digestivo frecuente,tengo indigestiones con frecuencia,zinc; vitamina b12,"carne vacuno, yogur, queso, huevos",original
+malestar digestivo frecuente,estos dias tengo indigestiones con frecuencia y va a peor,zinc; vitamina b12,"carne vacuno, yogur, queso, huevos",parafraseado
+malestar digestivo frecuente,por las mananas tengo indigestiones con frecuencia,zinc; vitamina b12,"carne vacuno, yogur, queso, huevos",parafraseado
+malestar digestivo frecuente,estos dias tengo indigestiones con frecuencia,zinc; vitamina b12,"carne vacuno, yogur, queso, huevos",parafraseado
+malestar digestivo frecuente,siento el estomago revuelto a menudo,zinc; vitamina b12,"carne vacuno, yogur, queso, huevos",original
+malestar digestivo frecuente,siento el estomago revuelto a menudo y no se por que,zinc; vitamina b12,"carne vacuno, yogur, queso, huevos",parafraseado
+malestar digestivo frecuente,siento el estomago revuelto a menudo y me pasa a menudo,zinc; vitamina b12,"carne vacuno, yogur, queso, huevos",parafraseado
+malestar digestivo frecuente,desde hace semanas siento el estomago revuelto a menudo,zinc; vitamina b12,"carne vacuno, yogur, queso, huevos",parafraseado
+malestar digestivo frecuente,me cae pesada la comida,zinc; vitamina b12,"carne vacuno, yogur, queso, huevos",original
+malestar digestivo frecuente,estos dias me cae pesada la comida y me pasa a menudo,zinc; vitamina b12,"carne vacuno, yogur, queso, huevos",parafraseado
+malestar digestivo frecuente,estos dias me cae pesada la comida,zinc; vitamina b12,"carne vacuno, yogur, queso, huevos",parafraseado
+malestar digestivo frecuente,desde hace semanas me cae pesada la comida y va a peor,zinc; vitamina b12,"carne vacuno, yogur, queso, huevos",parafraseado
+malestar digestivo frecuente,tengo gases y molestias recurrentes,zinc; vitamina b12,"carne vacuno, yogur, queso, huevos",original
+malestar digestivo frecuente,ultimamente tengo gases y molestias recurrentes y me pasa a menudo,zinc; vitamina b12,"carne vacuno, yogur, queso, huevos",parafraseado
+malestar digestivo frecuente,tengo gases y molestias recurrentes y me pasa a menudo,zinc; vitamina b12,"carne vacuno, yogur, queso, huevos",parafraseado
+malestar digestivo frecuente,tengo gases y molestias recurrentes y no se por que,zinc; vitamina b12,"carne vacuno, yogur, queso, huevos",parafraseado
+malestar digestivo frecuente,sufro malestar en la digestion casi a diario,zinc; vitamina b12,"carne vacuno, yogur, queso, huevos",original
+malestar digestivo frecuente,desde hace semanas sufro malestar en la digestion casi a diario,zinc; vitamina b12,"carne vacuno, yogur, queso, huevos",parafraseado
+malestar digestivo frecuente,sufro malestar en la digestion casi a diario y va a peor,zinc; vitamina b12,"carne vacuno, yogur, queso, huevos",parafraseado
+malestar digestivo frecuente,estos dias sufro malestar en la digestion casi a diario,zinc; vitamina b12,"carne vacuno, yogur, queso, huevos",parafraseado
