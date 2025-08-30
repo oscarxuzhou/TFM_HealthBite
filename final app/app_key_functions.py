@@ -132,6 +132,7 @@ class SymptomClassifier:
         pred_id = int(np.argmax(probs))
         label = self.id2label.get(pred_id, f"LABEL_{pred_id}")
         conf = float(probs[pred_id])
+        return label, conf
 
 # ---- instantiate models (adjust paths) ----
 model_dir = r"..\models\NLP\NLP best model" 
@@ -653,11 +654,12 @@ def run_rag_over_top10_human_output(
     El texto que me tienes devolver tiene que seguir el siguiente formato:
         - Primero, me tienes que hablar directamente, no uses tercera persona
         - Segundo, dime que síntoma me detectas en base a mi texto 
-          y que deficiencias nutriocionales puede que padezca en base a {deficiency_list}. (Asegúrate de mencionar que siempre es mejor visitar el médico si es grave) 
+          y que deficiencias nutriocionales puede que padezca en base a {deficiency_list}. No te inventes ninguna deficiencia nutricional que no aparezca en {deficiency_list}.
+          (Asegúrate de mencionar que siempre es mejor visitar el médico si es grave) 
         - Tercero, dime los ingredientes detectados en mi nevera ({available_ingredients}) 
         - En base a esta información, recomiendame recetas:
 
-        Para cada receta elegida, tienes que explicarme:
+        Para cada receta elegida, tienes que explicarme (que cada uno de los siguientes puntos vaya en bullet point para que sea más legible):
         - El nombre de la receta {recipe_title}
         - Los ingredientes necesarios de la receta {recipe_ingredients} (traducidos al español)
         - explica en 1–2 frases por qué ayuda al síntoma (cita qué alimentos o ingredientes cubren las deficiencias)
