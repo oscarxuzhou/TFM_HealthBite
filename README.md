@@ -4,8 +4,11 @@ Este repositorio contiene el código completo del proyecto fin de máster que se
 La aplicación sigue el siguiente flujo:
 ![Flujo de la aplicación](/final%20app/app%20flowchart.jpg)
 
-El flujo de uso de la aplicación es sencillo para el usuario: basta con describir su estado anímico o físico y subir una fotografía de su nevera. Con esta información, intervienen de forma integrada los distintos modelos. En primer lugar, un modelo de visión artificial (YOLO), entrenado con más de 17 000 imágenes correspondientes a 30 clases únicas de alimentos, identifica los ingredientes disponibles. Paralelamente, un modelo deprocesamiento de lenguaje natural (NLP), entrenado con descripciones en español de estados anímicos y físicos, infiere y predice posibles síntomas junto con las deficiencias nutricionales asociadas. Los resultados de ambos modelos se combinan en un algoritmo de puntuación que evalúa un conjunto de más de dos millonesde recetas, priorizando aquellas que mejor se ajustan al contexto específico del usuario. Finalmente, una capa adicional basada en un LLM con RAG revisa las recetas mejor puntuadas y actúa como agente de razonamiento: no solo selecciona las opciones definitivas que se recomendarán, sino que también proporciona explicaciones claras y justificadas sobre por qué fueron elegidas y cómo responden a las necesidades particulares del individuo. Durante el desarrollo, se comprobó que los modelos construidos alcanzan un rendimiento sólido y generan predicciones fiables, validando así la viabilidad del sistema propuesto.
-
+El flujo de uso de la aplicación es sencillo para el usuario: 
+- El usuario describe su estado anímico o físico
+- El usuario sube una fotografía de su nevera
+- El usuario aprieta el botón de "Recomiéndame recetas" 
+Tras estas acciones, el usuario puede obtener recetas personalizadas en base a su contexto.
 ---
 
 ## Guía de Instalación y Uso
@@ -20,8 +23,17 @@ Estos archivos contienen el modelo NLP y el dataset de recetas que debido a su t
    git clone https://github.com/oscarxuzhou/TFM_HealthBite.git
    cd TFM_HealthBite
    
-3.**Crea el entorno Conda a partir de `environment.yml`**:
+3. **Crea el entorno Conda a partir de `environment.yml`:**
    ```bash
    conda env create -f environment.yml
 
+4. **Activa el entorno**:
+   ```bash
+   conda activate healthbite
 
+5. **Ajusta la ruta de los archivos**:
+   Se necesita ajustar las rutas del modelo NLP y dataset de recetas en `final app/app_key_functions.py` a la nueva ubicación del archivo después de descargarlos en el paso 1
+
+6. **Ejecuta la aplicación de streamlit en Anaconda Prompt**:
+   ```bash
+   streamlit run "final app/HealthBite_app.py"
