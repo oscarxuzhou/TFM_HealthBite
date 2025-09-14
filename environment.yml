@@ -1,4 +1,4 @@
-name: tfm_env_final
+name: health_bite_env
 channels:
   - conda-forge
   - defaults
